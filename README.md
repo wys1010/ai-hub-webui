@@ -1,5 +1,5 @@
 # Navi AI Web UI
-Tap4 AI Web UI is the open source AI tools directory build by [Tap4 AI Tools Directory](https://tap4.ai). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
+Navi AI Web UI is the open source AI tools directory build by [Tap4 AI Tools Directory](https://tap4.ai). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
 
 English | [简体中文](https://github.com/wys1010/wk-ai-webui/blob/main/README.zh-CN.md)
 
