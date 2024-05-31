@@ -1,7 +1,7 @@
 # Navi AI Web UI
 Navi AI Web UI is the open source AI tools directory build by [Tap4 AI Tools Directory](https://tap4.ai). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
 
-English | [简体中文](https://github.com/wys1010/wk-ai-webui/blob/main/README.zh-CN.md)
+English | [简体中文](https://github.com/wys1010/navi-ai-webui/blob/main/README.zh-CN.md)
 
 ## Link Me
 
@@ -21,7 +21,7 @@ You can contact me at Twitter: https://x.com/wqs1010
 ## Quick Start
 
 ### Deploy on Vercel **(Don't forget to setup env)**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F6677-ai%2Fwk-ai-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=tap4-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwys1010%2Fnavi-ai-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=navi-ai)
 
 ## Runs on local
 ### install
@@ -32,7 +32,7 @@ You can contact me at Twitter: https://x.com/wqs1010
 ### setup
 #### (1) clone this project
 ```sh
-git clone https://github.com//wk-ai-webui.git
+git clone https://github.com//navi-ai-webui.git
 ```
 
 #### (2) signup a account on supabase then create a project
