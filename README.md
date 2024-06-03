@@ -32,7 +32,7 @@ You can contact me at Twitter: https://x.com/wqs1010
 ### setup
 #### (1) clone this project
 ```sh
-git clone https://github.com/wqs1010/navi-ai-webui.git
+git clone https://github.com/wys1010/navi-ai-webui.git
 ```
 
 #### (2) signup a account on supabase then create a project
@@ -87,7 +87,7 @@ lib/data.ts -> detailList
 
 ## Wanna submit your website on ai-hub.tools?
 ### Wanna add you website to our `/startup` page?
-- open an issue here: [TAP4-AI-Directory](https://github.com/wys1010/TAP4-AI-Directory/issues)
+- open an issue here: [TAP4-AI-Directory](https://github.com/wys1010/navi-ai-webui/issues)
 - email us: contact@ai-hub.tools
 
 ## Links to our products
@@ -95,7 +95,7 @@ lib/data.ts -> detailList
 The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools, etc. For more, please visit: [AI HUB](https://ai-hub.tools)
 
 ### How to get your first users for startup at the website list
-Here is the website list for submit your product to get users. Please visit [StartUp Your Product List](https://github.com/wys1010/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
+Here is the website list for submit your product to get users. Please visit [StartUp Your Product List](https://github.com/wys1010/navi-ai-webui/blob/main/Startup-Your-Product-List.md)
 
 ### GPT-4o in OpenAI
 The amazing new feature released in 2024.05.14. GPT-4o is coming, let's chat with her. Please [GPT-4o](https://openai.com/index/hello-gpt-4o/)
