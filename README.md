@@ -1,5 +1,5 @@
 # Navi AI Web UI
-Navi AI Web UI is the open source AI tools directory build by [Tap4 AI Tools Directory](https://tap4.ai). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
+Navi AI Web UI is the open source AI tools directory build by [AI Tools Directory](https://ai-hub.tools). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
 
 English | [简体中文](https://github.com/wys1010/navi-ai-webui/blob/main/README.zh-CN.md)
 
@@ -32,7 +32,7 @@ You can contact me at Twitter: https://x.com/wqs1010
 ### setup
 #### (1) clone this project
 ```sh
-git clone https://github.com//navi-ai-webui.git
+git clone https://github.com/wqs1010/navi-ai-webui.git
 ```
 
 #### (2) signup a account on supabase then create a project
@@ -42,14 +42,14 @@ git clone https://github.com//navi-ai-webui.git
 - root folder, create `.env.local` file and fill with values, for example:
 ```sh
 # your domain
-NEXT_PUBLIC_SITE_URL="https://www.tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://ai-hub.tools"
 
 # google tracking id and adsense URL
 GOOGLE_TRACKING_ID="G-XXXXXXX"
 GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Footer contact email
-CONTACT_US_EMAIL="contact@tap4.ai"
+CONTACT_US_EMAIL="contact@ai-hub.tools"
 
 # your supabase database url and key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co"
@@ -85,14 +85,14 @@ lib/data.ts -> detailList
 2. input the values and then submit the form
 3. open and check your supabase project
 
-## Wanna submit your website on Tap4.ai?
+## Wanna submit your website on ai-hub.tools?
 ### Wanna add you website to our `/startup` page?
 - open an issue here: [TAP4-AI-Directory](https://github.com/wys1010/TAP4-AI-Directory/issues)
-- email us: contact@tap4.ai
+- email us: contact@ai-hub.tools
 
 ## Links to our products
 ### TAP4-AI-Directory
-The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools, etc. For more, please visit: [Tap4 AI](https://tap4.ai)
+The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools, etc. For more, please visit: [AI HUB](https://ai-hub.tools)
 
 ### How to get your first users for startup at the website list
 Here is the website list for submit your product to get users. Please visit [StartUp Your Product List](https://github.com/wys1010/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
@@ -108,7 +108,7 @@ Anime Girl Studio is the ai anime girl generator and chat product. You can gener
 
 ## Other open source
 ### Website content crawler code
-visit: [wys1010/tap4-ai-scraper](https://github.com/wys1010/tap4-ai-scraper)
+visit: [wys1010/navi-ai-webui](https://github.com/wys1010/navi-ai-webui)
 
 ## LICENSE
 MIT
