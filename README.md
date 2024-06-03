@@ -1,7 +1,7 @@
 # AI Hub Web UI
 AI Hub Web UI is the open source AI tools directory build by [AI Tools Directory](https://ai-hub.tools). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
 
-English | [简体中文](https://github.com/wys1010/navi-ai-webui/blob/main/README.zh-CN.md)
+English | [简体中文](https://github.com/wys1010/ai-hub-webui/blob/main/README.zh-CN.md)
 
 ## Link Me
 
@@ -21,7 +21,7 @@ You can contact me at Twitter: https://x.com/wqs1010
 ## Quick Start
 
 ### Deploy on Vercel **(Don't forget to setup env)**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwys1010%2Fnavi-ai-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=navi-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwys1010%2Fai-hub-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=navi-ai)
 
 ## Runs on local
 ### install
@@ -32,7 +32,7 @@ You can contact me at Twitter: https://x.com/wqs1010
 ### setup
 #### (1) clone this project
 ```sh
-git clone https://github.com/wys1010/navi-ai-webui.git
+git clone https://github.com/wys1010/ai-hub-webui.git
 ```
 
 #### (2) signup a account on supabase then create a project
@@ -87,7 +87,7 @@ lib/data.ts -> detailList
 
 ## Wanna submit your website on ai-hub.tools?
 ### Wanna add you website to our `/startup` page?
-- open an issue here: [AI-HUB](https://github.com/wys1010/navi-ai-webui/issues)
+- open an issue here: [AI-HUB](https://github.com/wys1010/ai-hub-webui/issues)
 - email us: contact@ai-hub.tools
 
 ## Links to our products
@@ -95,7 +95,7 @@ lib/data.ts -> detailList
 The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools, etc. For more, please visit: [AI HUB](https://ai-hub.tools)
 
 ### How to get your first users for startup at the website list
-Here is the website list for submit your product to get users. Please visit [StartUp Your Product List](https://github.com/wys1010/navi-ai-webui/blob/main/Startup-Your-Product-List.md)
+Here is the website list for submit your product to get users. Please visit [StartUp Your Product List](https://github.com/wys1010/ai-hub-webui/blob/main/Startup-Your-Product-List.md)
 
 ### GPT-4o in OpenAI
 The amazing new feature released in 2024.05.14. GPT-4o is coming, let's chat with her. Please [GPT-4o](https://openai.com/index/hello-gpt-4o/)
@@ -108,7 +108,7 @@ Anime Girl Studio is the ai anime girl generator and chat product. You can gener
 
 ## Other open source
 ### Website content crawler code
-visit: [wys1010/navi-ai-webui](https://github.com/wys1010/navi-ai-webui)
+visit: [wys1010/ai-hub-webui](https://github.com/wys1010/ai-hub-webui)
 
 ## LICENSE
 MIT
