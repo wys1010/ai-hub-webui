@@ -1,10 +1,10 @@
-# Navi AI Web UI
+# AI Hub Web UI
 
 这是一个由[AI工具导航站](https://ai-hub.tools/)开源的AI导航站项目。我们的目标是让大家很容易就拥有一个属于自己的AI导航站，
 收录自己喜欢的AI工具产品。这个项目非常轻量级，维护简单，适合对AI导航站感兴趣的个人开发者，也适合对NextJs有兴趣的学习者，
 欢迎大家fork和star。
 
-[English](https://github.com/wys1010/navi-ai-webui/blob/main/README.md) | 简体中文
+[English](https://github.com/wys1010/ai-hub-webui/blob/main/README.md) | 简体中文
 
 ## 功能
 
@@ -27,7 +27,7 @@
 
 ### 在Vercel上部署 **（别忘了设置环境变量）**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwys1010%2Fnavi-ai-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=navi-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwys1010%2Fai-hub-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=navi-ai)
 
 ## 本地运行
 
@@ -42,7 +42,7 @@
 #### （1）克隆此项目
 
 ```sh
-git clone https://github.com/wys1010/navi-ai-webui.git
+git clone https://github.com/wys1010/ai-hub-webui.git
 ```
 
 #### （2）在supabase上注册一个账户，然后创建一个项目
@@ -113,7 +113,7 @@ lib/data.ts -> detailList
 
 ### 打算将您的网站添加到我们的 `/startup` 页面？
 
-- 在这里打开一个问题：[AI-Directory](https://github.com/wys1010/navi-ai-webui/issues)
+- 在这里打开一个问题：[AI-Directory](https://github.com/wys1010/ai-hub-webui/issues)
 - 给我们发邮件：[contact@ai-hub.tools](mailto:contact@ai-hub.tools)
 
 ## 我们产品的链接
@@ -126,7 +126,7 @@ lib/data.ts -> detailList
 ### 如何在网站列表中获得您的首批用户
 
 这是提交您的产品以获取用户的网站列表。请访问
-[StartUp Your Product List](https://github.com/wys1010/navi-ai-webui/blob/main/Startup-Your-Product-List.md)
+[StartUp Your Product List](https://github.com/wys1010/ai-hub-webui/blob/main/Startup-Your-Product-List.md)
 
 ### GPT-4o in OpenAI
 
@@ -145,7 +145,7 @@ Anime Girl Studio是AI anime girl生成器和聊天产品。您可以生成您�
 
 ### 网站内容爬虫代码
 
-访问：[wys1010/navi-ai-webui](https://github.com/wys1010/navi-ai-webui)
+访问：[wys1010/ai-hub-webui](https://github.com/wys1010/ai-hub-webui)
 
 ## 许可证
 
