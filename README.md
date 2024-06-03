@@ -87,7 +87,7 @@ lib/data.ts -> detailList
 
 ## Wanna submit your website on ai-hub.tools?
 ### Wanna add you website to our `/startup` page?
-- open an issue here: [TAP4-AI-Directory](https://github.com/wys1010/navi-ai-webui/issues)
+- open an issue here: [AI-HUB](https://github.com/wys1010/navi-ai-webui/issues)
 - email us: contact@ai-hub.tools
 
 ## Links to our products
