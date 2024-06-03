@@ -1,10 +1,10 @@
 # Navi AI Web UI
 
-这是一个由[AI工具导航站]开源的AI导航站项目。我们的目标是让大家很容易就拥有一个属于自己的AI导航站，
+这是一个由[AI工具导航站](https://ai-hub.tools/)开源的AI导航站项目。我们的目标是让大家很容易就拥有一个属于自己的AI导航站，
 收录自己喜欢的AI工具产品。这个项目非常轻量级，维护简单，适合对AI导航站感兴趣的个人开发者，也适合对NextJs有兴趣的学习者，
 欢迎大家fork和star。
 
-[English](https://github.com/wys1010/tap4-ai-webui/blob/main/README.md) | 简体中文
+[English](https://github.com/wys1010/navi-ai-webui/blob/main/README.md) | 简体中文
 
 ## 功能
 
@@ -27,7 +27,7 @@
 
 ### 在Vercel上部署 **（别忘了设置环境变量）**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwys1010%2Fnavi-ai-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=tap4-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwys1010%2Fnavi-ai-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=navi-ai)
 
 ## 本地运行
 
@@ -53,14 +53,14 @@ git clone https://github.com/wys1010/navi-ai-webui.git
 - 在根目录下，创建 `.env.local` 文件，填入具体数值，例子如下：
 ```sh
 # 你的域名
-NEXT_PUBLIC_SITE_URL="https://www.xx.ai"
+NEXT_PUBLIC_SITE_URL="https://ai-hub.tools"
 
 # 谷歌索引 id 和 广告 URL
 GOOGLE_TRACKING_ID="G-XXXXXXX"
 GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # 底部的联系邮箱
-CONTACT_US_EMAIL="contact@xx.ai"
+CONTACT_US_EMAIL="contact@ai-hub.tools"
 
 # supabase 数据库的 url 和 key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co"
@@ -109,24 +109,24 @@ lib/data.ts -> detailList
 2. 输入数值并提交表单
 3. 打开并检查您的 Supabase 项目
 
-## 打算在 Tap4.ai 上提交您的网站？
+## 打算在 AI HUB 上提交您的网站？
 
 ### 打算将您的网站添加到我们的 `/startup` 页面？
 
-- 在这里打开一个问题：[TAP4-AI-Directory](https://github.com/wys1010/TAP4-AI-Directory/issues)
-- 给我们发邮件：[contact@tap4.ai](mailto:contact@tap4.ai)
+- 在这里打开一个问题：[AI-Directory](https://github.com/wys1010/navi-ai-webui/issues)
+- 给我们发邮件：[contact@ai-hub.tools](mailto:contact@ai-hub.tools)
 
 ## 我们产品的链接
 
-### TAP4-AI-Directory
+### AI Hub Directory
 
 全球AI工具的集合。| 收集免费的ChatGPT镜像、替代品、prompt、其他AI工具等。欲了解更多信息，请访
-问：[Tap4 AI](https://tap4.ai)
+问：[AI HUB](https://ai-hub.tools)
 
 ### 如何在网站列表中获得您的首批用户
 
 这是提交您的产品以获取用户的网站列表。请访问
-[StartUp Your Product List](https://github.com/wys1010/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
+[StartUp Your Product List](https://github.com/wys1010/navi-ai-webui/blob/main/Startup-Your-Product-List.md)
 
 ### GPT-4o in OpenAI
 
@@ -145,7 +145,7 @@ Anime Girl Studio是AI anime girl生成器和聊天产品。您可以生成您�
 
 ### 网站内容爬虫代码
 
-访问：[wys1010/tap4-ai-scraper](https://github.com/wys1010/tap4-ai-scraper)
+访问：[wys1010/navi-ai-webui](https://github.com/wys1010/navi-ai-webui)
 
 ## 许可证
 
