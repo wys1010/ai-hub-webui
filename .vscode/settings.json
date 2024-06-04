@@ -1,0 +1,13 @@
+{
+    "i18n-ally.localesPaths": [
+        "messages"
+    ],
+    "i18n-ally.enabledParsers": ["ts","json"], //自动解析路径
+    // "i18n-ally.sourceLanguage": "cn",     // 翻译源语言
+    // "i18n-ally.displayLanguage": "cn",
+    "http.proxySupport": "on",
+  "http.proxy": "http://127.0.0.1:7890", //这里是科学软件的代理域名和端口
+  "http.proxtStrictSSL": "false",
+  "http.proxyAuthorization": null,
+  "i18n-ally.keystyle": "nested"
+}

@@ -15,10 +15,9 @@ export const NAV_LINKS = [
 
 export const PAGE_SIZE = 20;
 
-export const FORM_PLACEHOLDER = 'https://tap4.ai/';
+export const FORM_PLACEHOLDER = 'https://www.ai-hub.tools/';
 
-export const WEBSITE_EXAMPLE =
-  '<a href="https://tap4.ai/" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>';
+export const WEBSITE_EXAMPLE = '<a href="https://www.ai-hub.tools/" title="AI Hub Tools">AI Hub Tools</a>';
 
 export const STARTUP_LIST = [
   {
@@ -430,7 +429,7 @@ export const STARTUP_LIST = [
   {
     DA: 7,
     Website: 'Tap4 AI',
-    URL: 'https://tap4.ai/',
+    URL: 'https://www.ai-hub.tools/',
     Price: 'Free',
     Tag: 'AI',
   },
