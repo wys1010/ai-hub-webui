@@ -21,14 +21,13 @@
     "contactUs": "Kontaktieren Sie uns"
   },
   "Faq": {
-    "title": "Häufig gestellte Fragen",
     "1": {
       "question": "Was ist das Tap4 AI Tools Verzeichnis?",
-      "answer": "Das Tap4 AI Tools Verzeichnis - tap4.ai erstellt ein Verzeichnis von KI-Tools, das Ihnen hilft, Ihre Lieblings-KI-Tools zu finden. Sie können hier KI-Schreibtools, KI-Marketingtools, KI-Paraphrasierungstools, KI-SEO-Tools, KI-Lern-Tools, KI-Generator-Tools, KI-Forschungstools, KI-Kunsttools, KI-Musiktools, KI-Videotools, KI-Coding-Tools, KI-Fototools und mehr finden."
+      "answer": "AI Hub Tools – ai-hub.tools erstellt ein AI-Tools-Verzeichnis, das Ihnen hilft, Ihre bevorzugten AI-Tools zu erhalten. \nEs kann KI-Schreibwerkzeuge, KI-Marketingwerkzeuge, KI-Paraphrasierungswerkzeuge, KI-SEO-Werkzeuge, KI-Studienwerkzeuge, KI-Generatorwerkzeuge, KI-Forschungswerkzeuge, KI-Kunstwerkzeuge, KI-Musikwerkzeuge, KI-Videowerkzeuge, KI-Codierungswerkzeuge, KI-Fotowerkzeuge erhalten \nund mehr hier."
     },
     "2": {
       "question": "Wie finde ich Ihre KI-Tools im Tap4 AI Tools Verzeichnis?",
-      "answer-1": "1. Öffnen Sie tap4.ai.",
+      "answer-1": "1. Öffnen Sie ai-hub.tools.",
       "answer-2": "2. Erkunden Sie die KI-Tools im Tap4 AI Tools Verzeichnis.",
       "answer-3": "3. Klicken Sie auf die KI-Tools, die Sie benötigen, um die Details zu erhalten und besuchen Sie sie."
     },
@@ -68,7 +67,8 @@
     "11": {
       "question": "Ist das WebUI des Tap4 AI Verzeichnisses Open Source?",
       "answer": "Ja, wir werden das WebUI des Tap4 AI Verzeichnisses auf GitHub (https://github.com/6677-ai/tap4-ai-webui) open source. Bitte geben Sie uns einen Stern."
-    }
+    },
+    "title": "Häufig gestellte Fragen"
   },
   "FooterNavigation": {
     "privacyPolicy": {
@@ -96,11 +96,11 @@
     },
     "termsConditions": {
       "1-h1": "Nutzungsbedingungen für das Tap4 AI Verzeichnis",
-      "1-p": "Willkommen beim Tap4 AI Verzeichnis! Unsere Website, die unter https://tap4.ai (\"Website\") zu finden ist, ist darauf ausgelegt, Ihnen die Möglichkeit zu bieten, benutzerdefinierte Bilder zu erstellen. Durch den Zugriff auf oder die Nutzung unserer Website stimmen Sie zu, an diese Nutzungsbedingungen (\"Bedingungen\") gebunden zu sein. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, ist es Ihnen untersagt, die Website zu nutzen.",
+      "1-p": "Willkommen beim Tap4 AI Verzeichnis! Unsere Website, die unter https://ai-hub.tools (\"Website\") zu finden ist, ist darauf ausgelegt, Ihnen die Möglichkeit zu bieten, benutzerdefinierte Bilder zu erstellen. Durch den Zugriff auf oder die Nutzung unserer Website stimmen Sie zu, an diese Nutzungsbedingungen (\"Bedingungen\") gebunden zu sein. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, ist es Ihnen untersagt, die Website zu nutzen.",
       "2-h2": "1. Nutzungslizenz",
       "2-p": "Sie erhalten eine begrenzte, nicht exklusive, nicht übertragbare Lizenz zur Nutzung der Website und ihrer Dienste für persönliche, nicht kommerzielle Zwecke. Diese Lizenz umfasst keine Rechte, den Inhalt der Website zu kopieren, zu ändern oder zu verteilen oder ihn für kommerzielle Zwecke ohne unsere vorherige schriftliche Zustimmung zu nutzen.",
       "3-h2": "2. Eigentum",
-      "3-p": "Das Eigentum an Bildern, die aus Text auf der Website erstellt werden, gehört der Person, die das Bild erstellt hat. Tap4.ai beansprucht kein Eigentum an Bildern, die von Benutzern erstellt wurden.",
+      "3-p": "Das Eigentum an Bildern, die aus Text auf der Website erstellt werden, gehört der Person, die das Bild erstellt hat. ai-hub.tools beansprucht kein Eigentum an Bildern, die von Benutzern erstellt wurden.",
       "4-h2": "3. Sammlung von Benutzerdaten",
       "4-p": "Wir sammeln persönliche Daten (Name, E-Mail und Zahlungsinformationen) und nicht persönliche Daten (Web-Cookies), um unsere Dienste zu verbessern. Die Nutzung dieser Daten unterliegt unserer Datenschutzrichtlinie, die Sie unter den Nutzungsbedingungen finden können.",
       "terms-of-service": "terms-of-service",
@@ -144,7 +144,7 @@
   },
   "Startup": {
     "title": "Starten Sie Ihren Startup-Launch",
-    "subTitle": "Die ultimative Liste von Websites, um Ihr Startup online zu starten und zu fördern. Für die Aufnahme in die Liste oder zur Unterstützung bei der Einreichung Ihres Produkts für die kostenlose Liste, senden Sie uns bitte eine E-Mail: contact@tap4.ai.",
+    "subTitle": "Die ultimative Liste von Websites, um Ihr Startup online zu starten und zu fördern. Für die Aufnahme in die Liste oder zur Unterstützung bei der Einreichung Ihres Produkts für die kostenlose Liste, senden Sie uns bitte eine E-Mail: contact@ai-hub.tools.",
     "updateTime": "Kuratierte und täglich aktualisierte Liste. Zuletzt aktualisiert:",
     "table": {
       "da": "DA",
@@ -160,7 +160,7 @@
   },
   "Explore": {
     "title": "Entdecken Sie die besten KI-Tools 2024",
-    "subTitle": "Holen Sie sich Ihre Lieblings-KI-Tools im Tap4 AI Tools Verzeichnis. Die Liste der KI-Tools wird täglich von GPT-4o aktualisiert."
+    "subTitle": "Holen Sie sich Ihre bevorzugten KI-Tools im AI Hub. \nDie Liste der KI-Tools wird täglich von GPT-4o aktualisiert."
   },
   "Metadata": {
     "home": {
