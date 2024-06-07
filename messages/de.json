@@ -3,141 +3,141 @@
     "loading": "Wird geladen..."
   },
   "Navigation": {
-    "title": "Tap4 AI Tools Verzeichnis",
-    "discover": "Entdecken",
+    "title": "KI-Hub-Werkzeuge",
+    "discover": "KI entdecken",
     "submit": "Einreichen",
-    "newtools": "Neue Tools",
+    "newtools": "Neue Werkzeuge",
     "startup": "Startup",
     "menu": "Menü"
   },
   "Footer": {
-    "title": "Tap4 AI Tools Verzeichnis",
-    "subTitle": "Entdecken Sie die besten KI-Tools von 2024 mit dem Tap4 AI Tools Verzeichnis!",
+    "title": "KI-Hub-Werkzeuge",
+    "subTitle": "Entdecken Sie die besten KI-Werkzeuge von 2024 mit den KI-Hub-Werkzeugen!",
     "support": "Unterstützung",
-    "tap4": "Tap4 AI",
-    "tattoo": "AI Tattoo-Generator",
-    "privacy": "Datenschutzrichtlinie",
-    "termsConditions": "Nutzungsbedingungen",
-    "contactUs": "Kontaktieren Sie uns"
+    "tap4": "KI-Hub",
+    "tattoo": "KI-Tattoo-Generator",
+    "privacy": "Datenschutz-Bestimmungen",
+    "termsConditions": "Geschäftsbedingungen",
+    "contactUs": "Kontaktiere uns"
   },
   "Faq": {
     "1": {
-      "question": "Was ist das Tap4 AI Tools Verzeichnis?",
-      "answer": "AI Hub Tools – ai-hub.tools erstellt ein AI-Tools-Verzeichnis, das Ihnen hilft, Ihre bevorzugten AI-Tools zu erhalten. \nEs kann KI-Schreibwerkzeuge, KI-Marketingwerkzeuge, KI-Paraphrasierungswerkzeuge, KI-SEO-Werkzeuge, KI-Studienwerkzeuge, KI-Generatorwerkzeuge, KI-Forschungswerkzeuge, KI-Kunstwerkzeuge, KI-Musikwerkzeuge, KI-Videowerkzeuge, KI-Codierungswerkzeuge, KI-Fotowerkzeuge erhalten \nund mehr hier."
+      "question": "Was sind KI-Hub-Werkzeuge?",
+      "answer": "KI-Hub-Werkzeuge - ai-hub.tools baut ein KI-Werkzeugverzeichnis auf, das Ihnen hilft, Ihre Lieblings-KI-Werkzeuge zu erhalten. Sie können KI-Schreibwerkzeuge, KI-Markierungswerkzeuge, KI-Umformulierungswerkzeuge, KI-SEO-Werkzeuge, KI-Lernwerkzeuge, KI-Generatorwerkzeuge, KI-Forschungswerkzeuge, KI-Kunstwerkzeuge, KI-Musikwerkzeuge, KI-Videowerkzeuge, KI-Codierungswerkzeuge, KI-Fotowerkzeuge und mehr hier erhalten."
     },
     "2": {
-      "question": "Wie finde ich Ihre KI-Tools im Tap4 AI Tools Verzeichnis?",
+      "question": "Wie finde ich Ihre KI-Tools in den KI-Hub-Tools?",
       "answer-1": "1. Öffnen Sie ai-hub.tools.",
-      "answer-2": "2. Erkunden Sie die KI-Tools im Tap4 AI Tools Verzeichnis.",
-      "answer-3": "3. Klicken Sie auf die KI-Tools, die Sie benötigen, um die Details zu erhalten und besuchen Sie sie."
+      "answer-2": "2. Erkunden Sie die KI-Werkzeuge im KI-Hub.",
+      "answer-3": "3. Klicken Sie auf die KI-Werkzeuge, die Sie benötigen, um die Details zu erhalten und sie zu besuchen."
     },
     "3": {
-      "question": "Was sind die Hauptmerkmale des Tap4 AI Tools Verzeichnisses?",
-      "answer-1": "1. Kostenloses KI-Tools Verzeichnis: Es ist kostenlos, Ihre Lieblings-KI-Tools hier zu finden.",
-      "answer-2": "2. Startup-Liste: Die kostenlose Startupliste für KI-Tools-Entwickler."
+      "question": "Was sind die Hauptmerkmale der KI-Hub-Werkzeuge?",
+      "answer-1": "1. Kostenloses KI-Werkzeugverzeichnis: Hier können Sie Ihre Lieblings-KI-Werkzeuge kostenlos finden.",
+      "answer-2": "2. Startup-Liste: Die kostenlose Startup-Liste für KI-Werkzeugentwickler."
     },
     "4": {
-      "question": "Ist es kostenlos, KI-Tools im Tap4 AI Tools Verzeichnis einzureichen?",
-      "answer": "Ja, es ist derzeit kostenlos. Aber Sie sollten einen Backlink für das Tap4 AI Tools Verzeichnis teilen!"
+      "question": "Ist es kostenlos, KI-Werkzeuge bei den KI-Hub-Werkzeugen einzureichen?",
+      "answer": "Ja, es ist derzeit kostenlos. Aber Sie sollten den Backlink für die KI-Hub-Werkzeuge teilen!"
     },
     "5": {
-      "question": "Welche Kategorien von KI-Tools unterstützt das Tap4 AI Tools Verzeichnis?",
-      "answer": "Wir werden später alle Arten von KI-Tools unterstützen. Bitte warten Sie ein paar Tage."
+      "question": "Was ist die Kategorienliste der KI-Werkzeuge, die von den KI-Hub-Werkzeugen unterstützt werden?",
+      "answer": "Wir werden später alle Arten von KI-Werkzeugen unterstützen. Bitte warten Sie ein paar Tage."
     },
     "6": {
-      "question": "Wie oft wird die Liste der KI-Tools im Tap4 AI Verzeichnis aktualisiert?",
-      "answer": "Die Liste der KI-Tools wird täglich aktualisiert."
+      "question": "Wie oft werden die KI-Werkzeuge in den KI-Hub-Werkzeugen aktualisiert?",
+      "answer": "Die Liste der KI-Werkzeuge wird täglich aktualisiert."
     },
     "7": {
-      "question": "Unterstützt es hier GPT-4o oder Sora AI?",
-      "answer": "Sie können das GPT-4o oder Sora AI Tool hier bekommen. Hier ist die Einführung von GPT-4o und Sora Video, und Sie können die Website der Tools besuchen."
+      "question": "Unterstützt es GPT-4o oder Sora AI hier?",
+      "answer": "Sie können das GPT-4o- oder Sora-AI-Werkzeug hier erhalten. Hier ist die Einführung von GPT-4o und Sora-Video, und Sie können die Website der Werkzeuge besuchen."
     },
     "8": {
-      "question": "Fehlerbehebung",
-      "answer": "Wenn die Inhalte nicht angezeigt werden, versuchen Sie es mit einem anderen Browser oder löschen Sie Ihren Cache. Wenn die Probleme weiterhin bestehen, kontaktieren Sie uns unter contact@6677.ai."
+      "question": "Problembehandlung",
+      "answer": "Wenn die Inhalte nicht angezeigt werden, versuchen Sie einen anderen Browser, löschen Sie Ihren Cache. Wenn die Probleme weiterhin bestehen, kontaktieren Sie uns unter contact@ai-hub.tools."
     },
     "9": {
-      "question": "Wie wird der Inhalt des Tap4 AI Verzeichnisses generiert?",
-      "answer": "Der Inhalt der Beschreibung der KI-Tools wird von GPT-4o von OpenAI generiert."
+      "question": "Wie wird der Inhalt von KI-Hub-Werkzeugen generiert?",
+      "answer": "Der Inhalt der Beschreibung der KI-Werkzeuge wird von GPT-4o von OpenAI generiert."
     },
     "10": {
-      "question": "Was sind die Nutzungsrechte der KI-Tools?",
-      "answer": "Das Tap4 AI Tools Verzeichnis ist nur das Verzeichnis für KI-Tools. Die Nutzungsrechte der KI-Tools basieren auf der Website der KI-Tools."
+      "question": "Was sind die Nutzungsrechte der KI-Werkzeuge?",
+      "answer": "KI-Hub-Werkzeuge sind nur das KI-Verzeichnis für KI-Werkzeuge. Die Nutzungsrechte der KI-Werkzeuge basieren auf der Website der KI-Werkzeuge."
     },
     "11": {
-      "question": "Ist das WebUI des Tap4 AI Verzeichnisses Open Source?",
-      "answer": "Ja, wir werden das WebUI des Tap4 AI Verzeichnisses auf GitHub (https://github.com/6677-ai/tap4-ai-webui) open source. Bitte geben Sie uns einen Stern."
+      "question": "Ist die Webbenutzeroberfläche von KI-Hub-Werkzeugen Open Source?",
+      "answer": "Ja, wir werden die Webbenutzeroberfläche von KI-Hub-Werkzeugen auf GitHub (https://github.com/wys1010/ai-hub-webui) veröffentlichen. Bitte geben Sie uns einen Stern."
     },
     "title": "Häufig gestellte Fragen"
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Datenschutzrichtlinie für das Tap4 AI Tools Verzeichnis",
-      "1-p": "Diese Seite wird verwendet, um Besucher über meine Richtlinien bezüglich der Sammlung, Verwendung und Offenlegung persönlicher Informationen zu informieren, wenn jemand beschließt, meinen Dienst zu nutzen. Wenn Sie sich entscheiden, meinen Dienst zu nutzen, stimmen Sie der Sammlung und Nutzung von Informationen in Bezug auf diese Richtlinie zu. Die persönlichen Informationen, die ich sammle, werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Informationen außer wie in dieser Datenschutzrichtlinie beschrieben, nicht verwenden oder teilen. Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben die gleichen Bedeutungen wie in unseren Nutzungsbedingungen.",
-      "2-h2": "1. Sammlung und Nutzung von Informationen",
-      "2-p": "Für eine bessere Erfahrung, während der Nutzung unseres Dienstes, kann ich Sie bitten, uns bestimmte personenbezogene Daten zur Verfügung zu stellen. Die Informationen, die ich anfordere, werden auf Ihrem Gerät gespeichert und in keiner Weise von mir gesammelt. Die App verwendet Drittanbieterdienste, die Informationen sammeln, die zu Ihrer Identifizierung verwendet werden.",
+      "1-h1": "Datenschutzrichtlinie für KI-Hub-Werkzeuge",
+      "1-p": "Diese Seite dient dazu, Besucher über meine Richtlinien zur Erhebung, Nutzung und Offenlegung personenbezogener Daten zu informieren, falls sich jemand entscheidet, meinen Service zu nutzen. Wenn Sie sich entscheiden, meinen Service zu nutzen, stimmen Sie der Erhebung und Verwendung von Informationen im Zusammenhang mit dieser Richtlinie zu. Die von mir gesammelten personenbezogenen Daten werden verwendet, um den Service bereitzustellen und zu verbessern. Ich werde Ihre Informationen nicht verwenden oder mit irgendjemandem teilen, außer wie in dieser Datenschutzrichtlinie beschrieben. Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen.",
+      "2-h2": "1. Informationen sammeln und nutzen",
+      "2-p": "Für eine bessere Erfahrung benötige ich möglicherweise, während Sie unseren Service nutzen, dass Sie uns bestimmte personenbezogene Daten zur Verfügung stellen. Die von mir angeforderten Informationen werden auf Ihrem Gerät gespeichert und in keiner Weise von mir gesammelt. Die App verwendet Dienste von Drittanbieteran, die Informationen sammeln, um Sie zu identifizieren.",
       "3-h2": "2. Protokolldaten",
-      "3-p": "Ich möchte Sie darauf hinweisen, dass ich im Falle eines Fehlers in der App Daten und Informationen (über Produkte von Drittanbietern) auf Ihrem Telefon sammle, die Protokolldaten genannt werden. Diese Protokolldaten können Informationen wie die Internet-Protokoll-Adresse (\"IP\") Ihres Geräts, den Gerätenamen, die Version des Betriebssystems, die Konfiguration der App bei der Nutzung meines Dienstes, die Uhrzeit und das Datum Ihrer Nutzung des Dienstes und andere Statistiken umfassen.",
+      "3-p": "Ich möchte Sie darüber informieren, dass ich jedes Mal, wenn Sie meinen Service nutzen, im Falle eines Fehlers in der App Daten und Informationen (über Produkte von Drittanbietern) auf Ihrem Telefon erfasse, die als Protokolldaten bezeichnet werden. Diese Protokolldaten können Informationen wie Ihre Geräte-IP-Adresse, Gerätename, Betriebssystemversion, die Konfiguration der App bei der Nutzung meines Dienstes, Datum und Uhrzeit der Nutzung des Dienstes und andere Statistiken enthalten.",
       "4-h2": "3. Cookies",
-      "4-p": "Cookies sind Dateien mit einer kleinen Menge an Daten, die häufig als anonyme eindeutige Kennungen verwendet werden. Diese werden an Ihren Browser von den Websites, die Sie besuchen, gesendet und auf dem internen Speicher Ihres Geräts gespeichert. Dieser Dienst verwendet diese \"Cookies\" nicht explizit. Die App kann jedoch Code und Bibliotheken von Drittanbietern verwenden, die \"Cookies\" verwenden, um Informationen zu sammeln und ihre Dienste zu verbessern. Sie haben die Möglichkeit, diese Cookies entweder zu akzeptieren oder abzulehnen und zu wissen, wann ein Cookie an Ihr Gerät gesendet wird. Wenn Sie unsere Cookies ablehnen, können Sie möglicherweise einige Teile dieses Dienstes nicht nutzen.",
-      "5-h2": "4. Dienstleister",
-      "5-p-1": "Ich kann Drittunternehmen und Einzelpersonen aus folgenden Gründen beauftragen:",
-      "5-li-1": "Um unseren Dienst zu erleichtern;",
-      "5-li-2": "Um den Dienst in unserem Namen bereitzustellen;",
+      "4-p": "Cookies sind Dateien mit einer kleinen Menge an Daten, die häufig als anonyme eindeutige Kennungen verwendet werden. Diese werden an Ihren Browser von den Websites gesendet, die Sie besuchen, und auf dem internen Speicher Ihres Geräts gespeichert. Dieser Service verwendet diese \" Cookies \" nicht explizit. Die App kann jedoch Code und Bibliotheken von Drittanbietern verwenden, die \" Cookies \" verwenden, um Informationen zu sammeln und ihre Dienste zu verbessern. Sie haben die Möglichkeit, diese Cookies zu akzeptieren oder abzulehnen und zu wissen, wann ein Cookie an Ihr Gerät gesendet wird. Wenn Sie sich entscheiden, unsere Cookies abzulehnen, können Sie möglicherweise einige Teile dieses Dienstes nicht nutzen.",
+      "5-h2": "4. Dienstanbieter",
+      "5-p-1": "Ich kann Drittanbieterunternehmen und Einzelpersonen aus den folgenden Gründen beschäftigen:",
+      "5-li-1": "Um unseren Service zu erleichtern;",
+      "5-li-2": "Um den Service in unserem Auftrag bereitzustellen;",
       "5-li-3": "Um dienstbezogene Dienstleistungen zu erbringen;",
-      "5-li-4": "Um uns bei der Analyse der Nutzung unseres Dienstes zu unterstützen;",
-      "5-p-2": "Ich möchte die Benutzer dieses Dienstes darauf hinweisen, dass diese Drittanbieter Zugang zu Ihren persönlichen Informationen haben. Der Grund ist, die ihnen in unserem Auftrag zugewiesenen Aufgaben auszuführen. Sie sind jedoch verpflichtet, die Informationen nicht zu anderen Zwecken offenzulegen oder zu verwenden.",
+      "5-li-4": "Um uns bei der Analyse zu unterstützen, wie unser Service verwendet wird;",
+      "5-p-2": "Ich möchte Benutzer dieses Dienstes darauf hinweisen, dass diese Drittanbieter Zugriff auf Ihre personenbezogenen Daten haben. Der Grund ist, die ihnen von uns zugewiesenen Aufgaben in unserem Auftrag auszuführen. Sie sind jedoch verpflichtet, die Informationen nicht zu offenbaren oder für andere Zwecke zu verwenden.",
       "6-h2": "5. Sicherheit",
-      "6-p": "Ich schätze Ihr Vertrauen, uns Ihre persönlichen Informationen zur Verfügung zu stellen, daher bemühen wir uns, kommerziell akzeptable Mittel zu verwenden, um sie zu schützen. Denken Sie jedoch daran, dass keine Methode der Übertragung über das Internet oder Methode der elektronischen Speicherung 100% sicher und zuverlässig ist, und ich kann ihre absolute Sicherheit nicht garantieren.",
+      "6-p": "Ich schätze Ihr Vertrauen, uns Ihre persönlichen Informationen zur Verfügung zu stellen, daher bemühen wir uns, kommerziell akzeptable Mittel zum Schutz derselben zu verwenden. Bedenken Sie jedoch, dass keine Übertragungsmethode über das Internet oder elektronische Speicherung zu 100 % sicher und zuverlässig ist, und ich kann keine absolute Sicherheit garantieren.",
       "7-h2": "6. Links zu anderen Websites",
-      "7-p": "Dieser Dienst kann Links zu anderen Websites enthalten. Wenn Sie auf einen Drittanbieter-Link klicken, werden Sie zu dieser Website weitergeleitet. Beachten Sie, dass diese externen Websites nicht von mir betrieben werden. Daher empfehle ich Ihnen dringend, die Datenschutzrichtlinie dieser Websites zu überprüfen. Ich habe keine Kontrolle über und übernehme keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder -praktiken von Drittanbieter-Websites oder -diensten.",
-      "8-h2": "7. Änderungen dieser Datenschutzrichtlinie",
-      "8-p": "Ich kann unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Daher wird Ihnen geraten, diese Seite regelmäßig auf Änderungen zu überprüfen. Ich werde Sie über alle Änderungen informieren, indem ich die neue Datenschutzrichtlinie auf dieser Seite veröffentliche. Diese Änderungen sind sofort nach ihrer Veröffentlichung auf dieser Seite wirksam."
+      "7-p": "Dieser Service kann Links zu anderen Websites enthalten. Wenn Sie auf einen Link eines Drittanbieters klicken, werden Sie zu dieser Website weitergeleitet. Beachten Sie, dass diese externen Websites nicht von mir betrieben werden. Daher rate ich Ihnen dringend, die Datenschutzrichtlinie dieser Websites zu überprüfen. Ich habe keine Kontrolle über und übernehme keine Verantwortung für den Inhalt, die Datenschutzpraktiken oder die Praktiken von Websites oder Diensten Dritter.",
+      "8-h2": "7. Änderungen an dieser Datenschutzrichtlinie",
+      "8-p": "Ich kann unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Daher wird empfohlen, diese Seite regelmäßig auf Änderungen zu überprüfen. Ich werde Sie über etwaige Änderungen informieren, indem ich die neue Datenschutzrichtlinie auf dieser Seite veröffentliche. Diese Änderungen treten sofort in Kraft, nachdem sie auf dieser Seite veröffentlicht wurden."
     },
     "termsConditions": {
-      "1-h1": "Nutzungsbedingungen für das Tap4 AI Verzeichnis",
-      "1-p": "Willkommen beim Tap4 AI Verzeichnis! Unsere Website, die unter https://ai-hub.tools (\"Website\") zu finden ist, ist darauf ausgelegt, Ihnen die Möglichkeit zu bieten, benutzerdefinierte Bilder zu erstellen. Durch den Zugriff auf oder die Nutzung unserer Website stimmen Sie zu, an diese Nutzungsbedingungen (\"Bedingungen\") gebunden zu sein. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, ist es Ihnen untersagt, die Website zu nutzen.",
+      "1-h1": "Nutzungsbedingungen für KI-Hub-Werkzeuge",
+      "1-p": "Willkommen bei KI-Hub-Werkzeugen! Unsere Website, die unter https://ai-hub.tools (\" Website \") zu finden ist, ist darauf ausgerichtet, Ihnen die Möglichkeit zu bieten, benutzerdefinierte Bilder zu erstellen. Durch den Zugriff auf oder die Nutzung unserer Website erklären Sie sich mit diesen Nutzungsbedingungen (\" Bedingungen \") einverstanden. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, ist Ihnen die Nutzung der Website untersagt.",
       "2-h2": "1. Nutzungslizenz",
-      "2-p": "Sie erhalten eine begrenzte, nicht exklusive, nicht übertragbare Lizenz zur Nutzung der Website und ihrer Dienste für persönliche, nicht kommerzielle Zwecke. Diese Lizenz umfasst keine Rechte, den Inhalt der Website zu kopieren, zu ändern oder zu verteilen oder ihn für kommerzielle Zwecke ohne unsere vorherige schriftliche Zustimmung zu nutzen.",
+      "2-p": "Sie erhalten eine eingeschränkte, nicht exklusive, nicht übertragbare Lizenz zur Nutzung der Website und ihrer Dienste für persönliche, nicht kommerzielle Zwecke. Diese Lizenz umfasst keine Rechte zum Kopieren, Modifizieren oder Verteilen des Inhalts der Website oder zur kommerziellen Nutzung ohne unsere vorherige schriftliche Zustimmung.",
       "3-h2": "2. Eigentum",
-      "3-p": "Das Eigentum an Bildern, die aus Text auf der Website erstellt werden, gehört der Person, die das Bild erstellt hat. ai-hub.tools beansprucht kein Eigentum an Bildern, die von Benutzern erstellt wurden.",
-      "4-h2": "3. Sammlung von Benutzerdaten",
-      "4-p": "Wir sammeln persönliche Daten (Name, E-Mail und Zahlungsinformationen) und nicht persönliche Daten (Web-Cookies), um unsere Dienste zu verbessern. Die Nutzung dieser Daten unterliegt unserer Datenschutzrichtlinie, die Sie unter den Nutzungsbedingungen finden können.",
-      "terms-of-service": "terms-of-service",
-      "5-h2": "4. Anwendbares Recht",
-      "5-p": "Diese Bedingungen unterliegen den Gesetzen der Vereinigten Staaten von Amerika und werden in Übereinstimmung mit diesen ausgelegt, ohne Rücksicht auf deren Kollisionsnormen.",
+      "3-p": "Das Eigentum an Bildern, die aus Text auf der Website generiert wurden, gehört der Person, die das Bild erstellt hat. ai-hub.tools beansprucht kein Eigentum an Bildern, die von Benutzern erstellt wurden.",
+      "4-h2": "3. Erfassung von Benutzerdaten",
+      "4-p": "Wir erfassen personenbezogene Daten (Name, E-Mail und Zahlungsinformationen) und nicht personenbezogene Daten (Web-Cookies), um unsere Dienste zu verbessern. Die Verwendung dieser Daten unterliegt unserer Datenschutzrichtlinie, die unter",
+      "terms-of-service": "Nutzungsbedingungen",
+      "5-h2": "4. Geltendes Recht",
+      "5-p": "Diese Bedingungen unterliegen den Gesetzen der Vereinigten Staaten von Amerika, ohne Berücksichtigung ihrer Kollisionsnormen.",
       "6-h2": "5. Änderungen der Bedingungen",
-      "6-p": "Tap4 AI Verzeichnis behält sich das Recht vor, nach eigenem Ermessen diese Bedingungen jederzeit zu ändern oder zu ersetzen. Wir werden Benutzer über Änderungen per E-Mail benachrichtigen. Ihre fortgesetzte Nutzung der Website nach einer Änderung dieser Bedingungen bedeutet, dass Sie diese Änderungen akzeptieren.",
+      "6-p": "KI-Hub-Werkzeuge behalten sich das Recht vor, diese Bedingungen jederzeit nach eigenem Ermessen zu ändern oder zu ersetzen. Wir werden Benutzer über etwaige Änderungen per E-Mail informieren. Ihre fortgesetzte Nutzung der Website nach einer Änderung dieser Bedingungen stellt Ihre Zustimmung zu diesen Änderungen dar.",
       "7-h2": "6. Kontaktinformationen",
-      "7-p": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter contact@6677.ai.",
-      "last-p": "Durch die Nutzung des Tap4 AI Verzeichnisses erklären Sie sich mit diesen Nutzungsbedingungen einverstanden."
+      "7-p": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter contact@ai-hub.tools.",
+      "last-p": "Durch die Nutzung von KI-Hub-Werkzeugen erklären Sie sich mit diesen Nutzungsbedingungen einverstanden."
     }
   },
   "NotFound": {
     "title": "404 Nicht gefunden",
-    "goHome": "Zur Startseite"
+    "goHome": "Gehe zur Startseite"
   },
   "Home": {
-    "title": "Tap4 AI - Entdecken Sie die besten KI-Tools 2024",
-    "subTitle": "Holen Sie sich Ihre Lieblings-KI-Tools im Tap4 AI Tools Verzeichnis. Die Liste der KI-Tools wird täglich von GPT-4o aktualisiert. Es ist kostenlos, sie hier einzureichen, um Ihr SEO jetzt zu verbessern.",
-    "ai-navigate": "KI-Tools Liste",
-    "exploreMore": "Weitere KI-Tools entdecken"
+    "title": "KI-Hub-Werkzeuge - Entdecken Sie die besten KI-Werkzeuge 2024",
+    "subTitle": "Erhalten Sie Ihre Lieblings-KI-Werkzeuge im KI-Hub. Die Liste der KI-Werkzeuge wird täglich von GPT-4o aktualisiert. Es ist kostenlos, hier einzusenden, um Ihr SEO zu verbessern.",
+    "ai-navigate": "KI-Werkzeugliste",
+    "exploreMore": "Mehr KI-Werkzeuge erhalten"
   },
   "Submit": {
     "title": "Reichen Sie Ihr KI-Tool ein",
-    "subTitle": "Reichen Sie Ihr KI-Tool ein und erhalten Sie Traffic vom Tap4 AI Verzeichnis",
-    "website": "Webseitenname",
-    "url": "Webseiten-URL",
+    "subTitle": "Reichen Sie Ihr KI-Tool ein und erhalten Sie Traffic von den KI-Hub-Werkzeugen",
+    "website": "Website-Name",
+    "url": "Website-URL",
     "submit": "Einreichen",
     "add": "Hinzufügen",
-    "text": "zu Ihrer Website-Startseite, und dann können Sie Ihre Website erfolgreich kostenlos einreichen!",
+    "text": "zu Ihrer Website-Startseite hinzu, und dann können Sie Ihre Website erfolgreich kostenlos einreichen!",
     "networkError": "Netzwerkfehler",
     "success": "Erfolg"
   },
   "Startup": {
-    "title": "Starten Sie Ihren Startup-Launch",
-    "subTitle": "Die ultimative Liste von Websites, um Ihr Startup online zu starten und zu fördern. Für die Aufnahme in die Liste oder zur Unterstützung bei der Einreichung Ihres Produkts für die kostenlose Liste, senden Sie uns bitte eine E-Mail: contact@ai-hub.tools.",
-    "updateTime": "Kuratierte und täglich aktualisierte Liste. Zuletzt aktualisiert:",
+    "title": "Starten Sie Ihren Start-Up-Launch",
+    "subTitle": "Die ultimative Liste von Websites zum Starten und Bewerben Ihres Start-Ups online. Um sich für die Liste zu bewerben oder bei der Einreichung für Ihr Produkt für die kostenlose Liste zu helfen, senden Sie uns bitte eine E-Mail an: contact@ai-hub.tools.",
+    "updateTime": "Zusammengestellt und täglich aktualisiert. Zuletzt aktualisiert:",
     "table": {
       "da": "DA",
       "website": "Website",
@@ -151,27 +151,27 @@
     }
   },
   "Explore": {
-    "title": "Entdecken Sie die besten KI-Tools 2024",
-    "subTitle": "Holen Sie sich Ihre bevorzugten KI-Tools im AI Hub. \nDie Liste der KI-Tools wird täglich von GPT-4o aktualisiert."
+    "title": "Entdecken Sie die besten KI-Werkzeuge 2024",
+    "subTitle": "Erhalten Sie Ihre Lieblings-KI-Werkzeuge im KI-Hub. Die Liste der KI-Werkzeuge wird täglich von GPT-4o aktualisiert."
   },
   "Metadata": {
     "home": {
-      "title": "Holen Sie sich Ihre besten KI-Tools | Tap4 AI Verzeichnis",
-      "description": "Das Tap4 AI Verzeichnis ist ein Werkzeug, das ein kostenloses Verzeichnis von KI-Tools bietet. Holen Sie sich Ihre Lieblings-KI-Tools mit dem Tap4 AI Verzeichnis, das darauf abzielt, alle KI-Tools zu sammeln und das Beste für die Benutzer bereitzustellen.",
-      "keywords": "Tap4 AI Verzeichnis"
+      "title": "Holen Sie sich Ihre besten KI-Werkzeuge | KI-Hub-Werkzeuge",
+      "description": "KI-Hub-Werkzeuge ist ein Werkzeug, das ein kostenloses KI-Werkzeugverzeichnis bietet. Holen Sie sich Ihre Lieblings-KI-Werkzeuge mit KI-Hub, KI-Hub zielt darauf ab, alle KI-Werkzeuge zu sammeln und das Beste für Benutzer bereitzustellen.",
+      "keywords": "KI-Hub-Werkzeuge"
     },
     "ai": {
-      "titleSubfix": "Tap4 AI Verzeichnis"
+      "titleSubfix": "KI-Hub-Werkzeuge"
     },
     "explore": {
-      "title": "Entdecken Sie die besten KI-Tools 2024 | Tap4 AI Verzeichnis",
-      "titlePrefix": "Erkunden Sie das Tap4 AI Verzeichnis",
-      "titleSuffix": "Tap4 AI Verzeichnis",
-      "description": "Das Tap4 AI Verzeichnis ist ein Werkzeug, das ein kostenloses Verzeichnis von KI-Tools bietet. Holen Sie sich Ihre Lieblings-KI-Tools mit dem Tap4 AI Verzeichnis, das darauf abzielt, alle KI-Tools zu sammeln und das Beste für die Benutzer bereitzustellen.",
-      "keywords": "Tap4 AI Verzeichnis"
+      "title": "Beste KI-Werkzeuge erkunden 2024 | KI-Hub-Werkzeuge",
+      "titlePrefix": "KI-Hub-Werkzeuge erkunden",
+      "titleSuffix": "KI-Hub-Werkzeuge",
+      "description": "KI-Hub-Werkzeuge ist ein Werkzeug, das ein kostenloses KI-Werkzeugverzeichnis bietet. Holen Sie sich Ihre Lieblings-KI-Werkzeuge mit KI-Hub-Werkzeugen, KI-Hub-Werkzeuge zielen darauf ab, alle KI-Werkzeuge zu sammeln und das Beste für Benutzer bereitzustellen.",
+      "keywords": "KI-Hub-Werkzeuge"
     },
     "submit": {
-      "title": "Reichen Sie Ihr KI-Tool ein und erhalten Sie Traffic | Tap4 AI Verzeichnis"
+      "title": "Reichen Sie Ihr KI-Werkzeug ein und erhalten Sie Traffic | KI-Hub-Werkzeuge"
     }
   }
 }
