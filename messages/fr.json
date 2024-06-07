@@ -1,185 +1,177 @@
 {
   "Common": {
-    "loading": "Chargement..."
+    "loading": "chargement..."
   },
   "Navigation": {
-    "title": "Répertoire des outils AI de Tap4",
-    "discover": "Découvrir l'IA",
+    "title": "Outils AI Hub",
+    "discover": "Découvrir l'AI",
     "submit": "Soumettre",
-    "newtools": "Nouveaux outils",
-    "startup": "Startups",
-    "menu": "Menu"
+    "newtools": "Nouveaux Outils",
+    "startup": "Démarrage",
+    "menu": "menu"
   },
   "Footer": {
-    "title": "Répertoire des outils AI de Tap4",
-    "subTitle": "Découvrez les meilleurs outils AI de 2024 dans le Répertoire des outils AI de Tap4 !",
-    "support": "Soutien",
-    "tap4": "Tap4 AI",
+    "title": "Outils AI Hub",
+    "subTitle": "Découvrez les meilleurs outils AI de 2024 avec AI Hub Tools!",
+    "support": "Support",
+    "tap4": "AI Hub",
     "tattoo": "Générateur de Tatouages AI",
     "privacy": "Politique de confidentialité",
-    "termsConditions": "Termes et conditions",
+    "termsConditions": "Termes et Conditions",
     "contactUs": "Contactez-nous"
   },
   "Faq": {
-    "title": "FAQ",
     "1": {
-      "question": "Qu'est-ce que le Répertoire des outils AI de Tap4 ?",
-      "answer": "Le Répertoire des outils AI de Tap4 - ai-hub.tools est en train de construire un répertoire d'outils AI pour vous aider à obtenir vos outils AI préférés. Vous pouvez y trouver des outils d'écriture AI, des outils de marketing AI, des outils de réécriture AI, des outils SEO AI, des outils d'apprentissage AI, des outils de génération AI, des outils de recherche AI, des outils artistiques AI, des outils de musique AI, des outils vidéo AI, des outils de codage AI, des outils photo AI, etc."
+      "question": "Qu'est-ce que AI Hub Tools?",
+      "answer": "AI Hub Tools - ai-hub.tools construit un annuaire d'outils AI qui vous aide à obtenir vos outils AI préférés. Vous pouvez obtenir des outils de rédaction AI, des outils de marketing AI, des outils de paraphrase AI, des outils SEO AI, des outils d'étude AI, des générateurs AI, des outils de recherche AI, des outils d'art AI, des outils de musique AI, des outils vidéo AI, des outils de codage AI, des outils photo AI et plus encore ici."
     },
     "2": {
-      "question": "Comment trouver votre outil AI dans le Répertoire des outils AI de Tap4 ?",
+      "question": "Comment trouver vos outils AI dans AI Hub Tools?",
       "answer-1": "1. Ouvrez ai-hub.tools.",
-      "answer-2": "2. Explorez les outils AI dans le Répertoire des outils AI de Tap4.",
-      "answer-3": "3. Cliquez sur l'outil AI dont vous avez besoin pour obtenir les détails et y accéder."
+      "answer-2": "2. Explorez les outils AI dans l'AI Hub.",
+      "answer-3": "3. Cliquez sur les outils AI dont vous avez besoin pour obtenir les détails et les visiter."
     },
     "3": {
-      "question": "Quelles sont les principales caractéristiques du Répertoire des outils AI de Tap4 ?",
-      "answer-1": "1. Répertoire d'outils AI gratuit : trouvez gratuitement vos outils AI préférés ici.",
-      "answer-2": "2. Liste des startups : liste gratuite pour les développeurs d'outils AI."
+      "question": "Quelles sont les principales fonctionnalités de AI Hub Tools?",
+      "answer-1": "1. Annuaire d'outils AI gratuit: Il est gratuit de trouver vos outils AI préférés ici.",
+      "answer-2": "2. Liste des startups: La liste des startups gratuite pour les développeurs d'outils AI."
     },
     "4": {
-      "question": "La soumission d'outils AI au Répertoire des outils AI de Tap4 est-elle gratuite ?",
-      "answer": "Oui, actuellement c'est gratuit. Mais vous devez partager le lien retour du Répertoire des outils AI de Tap4 !"
+      "question": "Est-il gratuit de soumettre des outils AI à AI Hub Tools?",
+      "answer": "Oui, c'est gratuit actuellement. Mais vous devez partager le lien de retour pour AI Hub Tools!"
     },
     "5": {
-      "question": "Quelles catégories d'outils AI sont prises en charge par le Répertoire des outils AI de Tap4 ?",
-      "answer": "Nous allons prendre en charge tous les types d'outils AI à l'avenir. Veuillez patienter quelques jours."
+      "question": "Quelle est la liste des catégories d'outils AI que AI Hub Tools prend en charge?",
+      "answer": "Nous prendrons en charge tous les types d'outils AI plus tard. Veuillez patienter quelques jours."
     },
     "6": {
-      "question": "Quelle est la fréquence de mise à jour des outils AI dans le Répertoire des outils AI de Tap4 ?",
+      "question": "Quelle est la fréquence de mise à jour des outils AI dans AI Hub Tools?",
       "answer": "La liste des outils AI sera mise à jour quotidiennement."
     },
     "7": {
-      "question": "GPT-4o ou Sora AI sont-ils pris en charge ici ?",
-      "answer": "Vous pouvez obtenir des outils GPT-4o ou Sora AI ici. Il y a des vidéos d'introduction de GPT-4o et Sora, et vous pouvez accéder aux sites web des outils."
+      "question": "AI Hub Tools prend-il en charge GPT-4o ou Sora AI?",
+      "answer": "Vous pouvez obtenir l'outil GPT-4o ou Sora AI ici. Voici l'introduction de GPT-4o et Sora vidéo, et vous pouvez visiter le site web des outils."
     },
     "8": {
       "question": "Dépannage",
-      "answer": "Si le contenu n'apparaît pas, essayez un autre navigateur et effacez le cache. Si le problème persiste, contactez-nous à : contact@6677.ai."
+      "answer": "Si le contenu n'apparaît pas, essayez un autre navigateur, videz votre cache. Si les problèmes persistent, contactez-nous à contact@ai-hub.tools."
     },
     "9": {
-      "question": "Comment le contenu du Répertoire des outils AI de Tap4 est-il généré ?",
-      "answer": "Le contenu descriptif des outils AI est généré par GPT-4o d'OpenAI."
+      "question": "Comment le contenu de AI Hub Tools est-il généré?",
+      "answer": "Le contenu de la description des outils AI est généré par GPT-4o d'OpenAI."
     },
     "10": {
-      "question": "Quelles sont les autorisations d'utilisation des outils AI ?",
-      "answer": "Le Répertoire des outils AI de Tap4 est simplement un répertoire d'outils AI. Les autorisations d'utilisation des outils AI sont basées sur le site web de l'outil AI."
+      "question": "Quels sont les droits d'utilisation des outils AI?",
+      "answer": "AI Hub Tools est juste l'annuaire AI pour les outils AI. Les droits d'utilisation des outils AI sont basés sur le site web des outils AI."
     },
     "11": {
-      "question": "L'interface Web du Répertoire des outils AI de Tap4 est-elle open source ?",
-      "answer": "Oui, nous ouvrirons l'interface Web du Répertoire des outils AI de Tap4 sur GitHub (https://github.com/6677-ai/tap4-ai-webui). Veuillez nous donner un étoile."
-    }
+      "question": "L'interface web de AI Hub Tools est-elle open source?",
+      "answer": "Oui, nous ouvrirons l'interface web de AI Hub Tools sur GitHub(https://github.com/wys1010/ai-hub-webui). Veuillez nous ajouter aux favoris."
+    },
+    "title": "Questions fréquemment posées"
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Politique de confidentialité du Répertoire des outils AI de Tap4",
-      "1-p": "Cette page est utilisée pour informer les visiteurs de mes politiques concernant la collecte, l'utilisation et la divulgation des informations personnelles si quelqu'un décide d'utiliser mon service. Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilisation des informations en relation avec cette politique. Les informations personnelles que je collecte sont utilisées pour fournir et améliorer le service. Je n'utiliserai ni ne partagerai vos informations avec personne, sauf comme décrit dans cette politique de confidentialité. Les termes utilisés dans cette politique de confidentialité ont les mêmes significations que dans nos Termes et Conditions.",
+      "1-h1": "Politique de confidentialité pour AI Hub Tools",
+      "1-p": "Cette page est utilisée pour informer les visiteurs concernant mes politiques de collecte, d'utilisation et de divulgation des Informations Personnelles si quelqu'un décidait d'utiliser mon Service. Si vous choisissez d'utiliser mon Service, alors vous acceptez la collecte et l'utilisation des informations en relation avec cette politique. Les Informations Personnelles que je collecte sont utilisées pour fournir et améliorer le Service. Je n'utiliserai ni ne partagerai vos informations avec quiconque sauf comme décrit dans cette Politique de Confidentialité. Les termes utilisés dans cette Politique de Confidentialité ont les mêmes significations que dans nos Termes et Conditions.",
       "2-h2": "1. Collecte et utilisation des informations",
-      "2-p": "Pour une meilleure expérience, lors de l'utilisation de notre service, je peux vous demander de nous fournir certaines informations personnellement identifiables. Les informations que je demande seront conservées sur votre appareil et ne seront en aucun cas collectées par moi. L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.",
+      "2-p": "Pour une meilleure expérience, lors de l'utilisation de notre Service, je peux vous demander de nous fournir certaines informations personnellement identifiables. Les informations que je demande seront conservées sur votre appareil et ne sont en aucune façon collectées par moi. L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.",
       "3-h2": "2. Données de journal",
-      "3-p": "Je tiens à vous informer que chaque fois que vous utilisez mon service, en cas d'erreur dans l'application, je collecte des données et des informations sur votre téléphone via des produits tiers appelés données de journal. Ces données de journal peuvent inclure des informations telles que l'adresse IP de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon service, l'heure et la date de votre utilisation du service, et d'autres statistiques.",
+      "3-p": "Je veux vous informer que chaque fois que vous utilisez mon Service, en cas d'erreur dans l'application, je collecte des données et des informations (par l'intermédiaire de produits tiers) sur votre téléphone appelées Données de Journal. Ces Données de Journal peuvent inclure des informations telles que l'adresse IP de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon Service, l'heure et la date de votre utilisation du Service et d'autres statistiques.",
       "4-h2": "3. Cookies",
-      "4-p": "Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. Ces données sont envoyées à votre navigateur à partir des sites web que vous visitez et sont stockées sur la mémoire interne de votre appareil. Ce service n'utilise pas explicitement ces \"cookies\". Cependant, l'application peut utiliser des codes et des bibliothèques tiers qui utilisent des \"cookies\" pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, vous ne pourrez peut-être pas utiliser certaines parties de ce service.",
-      "5-h2": "4. Prestataires de services",
-      "5-p-1": "Je peux employer des sociétés tierces et des individus pour les raisons suivantes :",
-      "5-li-1": "Pour faciliter notre service ;",
-      "5-li-2": "Pour fournir le service en notre nom ;",
-      "5-li-3": "Pour exécuter des services liés au service ;",
-      "5-li-4": "Pour nous aider à analyser l'utilisation de notre service ;",
-      "5-p-2": "Je veux informer les utilisateurs de ce service que ces tiers ont accès à vos informations personnelles. La raison est d'exécuter les tâches qui leur sont assignées en notre nom. Cependant, ils sont obligés de ne pas divulguer ou utiliser les informations à d'autres fins.",
+      "4-p": "Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. Ils sont envoyés à votre navigateur à partir des sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil. Ce Service n'utilise pas explicitement ces \"cookies\". Cependant, l'application peut utiliser du code tiers et des bibliothèques qui utilisent des \"cookies\" pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, vous ne pourrez peut-être pas utiliser certaines parties de ce Service.",
+      "5-h2": "4. Fournisseurs de services",
+      "5-p-1": "Je peux employer des entreprises et des individus tiers pour les raisons suivantes:",
+      "5-li-1": "Pour faciliter notre Service;",
+      "5-li-2": "Pour fournir le Service en notre nom;",
+      "5-li-3": "Pour effectuer des services liés au Service;",
+      "5-li-4": "Pour nous aider à analyser comment notre Service est utilisé;",
+      "5-p-2": "Je veux informer les utilisateurs de ce Service que ces tiers ont accès à vos Informations Personnelles. La raison est d'exécuter les tâches qui leur sont assignées en notre nom. Cependant, ils sont tenus de ne pas divulguer ou utiliser les informations à d'autres fins.",
       "6-h2": "5. Sécurité",
-      "6-p": "Je valorise votre confiance en nous fournissant vos informations personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais rappelez-vous qu'aucune méthode de transmission sur Internet, ou méthode de stockage électronique n'est 100% sécurisée et fiable, et je ne peux garantir leur sécurité absolue.",
+      "6-p": "J'apprécie votre confiance en nous fournissant vos Informations Personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables de les protéger. Mais rappelez-vous qu'aucune méthode de transmission sur Internet, ni aucune méthode de stockage électronique n'est sécurisée et fiable à 100%, et je ne peux garantir leur sécurité absolue.",
       "7-h2": "6. Liens vers d'autres sites",
-      "7-p": "Ce service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par moi. Par conséquent, je vous conseille fortement de consulter la politique de confidentialité de ces sites. Je n'ai aucun contrôle sur et n'assume aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques de tout site ou service tiers.",
-      "8-h2": "7. Modifications de cette politique de confidentialité",
-      "8-p": "Je peux mettre à jour notre politique de confidentialité de temps en temps. Ainsi, vous êtes conseillé de consulter cette page périodiquement pour tout changement. Je vous notifierai de tout changement en publiant la nouvelle politique de confidentialité sur cette page. Ces changements sont effectifs immédiatement après leur publication sur cette page."
+      "7-p": "Ce Service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par moi. Par conséquent, je vous conseille fortement de consulter la Politique de Confidentialité de ces sites Web. Je n'ai aucun contrôle sur et n'assume aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques de tout site ou service tiers.",
+      "8-h2": "7. Modifications de cette Politique de Confidentialité",
+      "8-p": "Je peux mettre à jour notre Politique de Confidentialité de temps en temps. Par conséquent, il vous est conseillé de revoir cette page périodiquement pour tout changement. Je vous informerai de tout changement en publiant la nouvelle Politique de Confidentialité sur cette page. Ces modifications entrent en vigueur immédiatement après leur publication sur cette page."
     },
     "termsConditions": {
-      "1-h1": "Termes et Conditions du Répertoire des outils AI de Tap4",
-      "1-p": "Bienvenue sur le Répertoire des outils AI de Tap4 ! Notre site web situé à l'adresse https://ai-hub.tools (le \"Site\") est dédié à vous fournir la capacité de créer des images personnalisées. En accédant ou en utilisant notre site web, vous acceptez d'être lié par ces termes de service (les \"Termes\"). Si vous n'êtes pas d'accord avec l'un de ces termes, il vous est interdit d'utiliser le site.",
+      "1-h1": "Conditions d'utilisation pour AI Hub Tools",
+      "1-p": "Bienvenue sur AI Hub Tools! Notre site Web, situé à https://ai-hub.tools (\"Site Web\"), est dédié à vous fournir la possibilité de créer des images personnalisées. En accédant ou en utilisant notre Site Web, vous acceptez d'être lié par ces Conditions d'utilisation (\"Conditions\"). Si vous n'êtes pas d'accord avec une partie des conditions, vous êtes interdit d'utiliser le Site Web.",
       "2-h2": "1. Licence d'utilisation",
-      "2-p": "Vous êtes accordé une licence limitée, non exclusive et non transférable pour utiliser le site et ses services pour des usages personnels et non commerciaux. Cette licence n'inclut pas le droit de copier, modifier ou distribuer le contenu du site ou de l'utiliser à des fins commerciales sans notre consentement écrit préalable.",
+      "2-p": "Vous bénéficiez d'une licence limitée, non exclusive et non transférable pour utiliser le Site Web et ses services à des fins personnelles et non commerciales. Cette licence n'inclut aucun droit de copier, modifier ou distribuer le contenu du Site Web ou de l'utiliser à des fins commerciales sans notre consentement écrit préalable.",
       "3-h2": "2. Propriété",
-      "3-p": "La propriété des images générées à partir de texte sur le site appartient à la personne qui a créé l'image. ai-hub.tools ne revendique pas la propriété des images créées par les utilisateurs.",
+      "3-p": "La propriété des images générées à partir de texte sur le Site Web appartient à la personne qui a créé l'image. ai-hub.tools ne revendique aucun droit de propriété sur les images créées par les utilisateurs.",
       "4-h2": "3. Collecte de données des utilisateurs",
-      "4-p": "Nous recueillons des données personnelles (nom, email et informations de paiement) et des données non personnelles (cookies web) pour améliorer nos services. L'utilisation de ces données est soumise à notre politique de confidentialité, disponible à ",
-      "terms-of-service": "Termes de service",
+      "4-p": "Nous collectons des données personnelles (nom, email et informations de paiement) et des données non personnelles (cookies web) pour améliorer nos services. L'utilisation de ces données est régie par notre Politique de Confidentialité, qui peut être trouvée à",
+      "terms-of-service": "conditions-d'utilisation",
       "5-h2": "4. Droit applicable",
-      "5-p": "Ces termes sont régis et interprétés conformément aux lois des États-Unis, sans égard à ses dispositions en matière de conflit de lois.",
-      "6-h2": "5. Modifications des termes",
-      "6-p": "Tap4 AI Directory se réserve le droit, à sa seule discrétion, de modifier ou de remplacer ces termes à tout moment. Nous vous informerons par email de tout changement. Votre utilisation continue du site après ces changements constitue votre acceptation des nouveaux termes.",
+      "5-p": "Ces Conditions sont régies et interprétées conformément aux lois des États-Unis d'Amérique, sans égard à ses dispositions en matière de conflit de lois.",
+      "6-h2": "5. Modifications des Conditions",
+      "6-p": "AI Hub Tools se réserve le droit, à sa seule discrétion, de modifier ou de remplacer ces Conditions à tout moment. Nous informerons les utilisateurs de tout changement par email. Votre utilisation continue du Site Web après tout changement de ces Conditions constituera votre acceptation de ces modifications.",
       "7-h2": "6. Informations de contact",
-      "7-p": "Si vous avez des questions sur ces termes, veuillez nous contacter : contact@6677.ai.",
-      "last-p": "En utilisant le Répertoire des outils AI de Tap4, vous acceptez ces termes de service."
+      "7-p": "Si vous avez des questions concernant ces Conditions, veuillez nous contacter à contact@ai-hub.tools.",
+      "last-p": "En utilisant AI Hub Tools, vous signifiez votre acceptation de ces Conditions d'utilisation."
     }
   },
   "NotFound": {
     "title": "404 Non Trouvé",
-    "goHome": "Retour à l'accueil"
+    "goHome": "aller à la maison"
   },
   "Home": {
-    "title": "Tap4 AI - Découvrez les meilleurs outils d'IA 2024",
-    "subTitle": "Obtenez vos outils IA préférés dans l'annuaire des outils Tap4 AI. Les listes d'outils IA sont mises à jour quotidiennement par GPT-4o. C'est gratuit de soumettre ici pour améliorer votre SEO maintenant.",
-    "ai-navigate": "Liste des outils IA",
-    "exploreMore": "Obtenez plus d'outils IA",
-    "checkDetail": "Voir le détail",
-    "search": "Recherche",
-    "result": "Résultat de recherche",
-    "empty": "Aucune donnée disponible"
-  },
-  "Category": {
-    "home": "Accueil",
-    "empty": "Aucune donnée disponible"
+    "title": "Outils AI Hub - Découvrez les Meilleurs Outils AI 2024",
+    "subTitle": "Obtenez vos outils AI préférés dans AI Hub. La liste des outils AI est mise à jour quotidiennement par GPT-4o. C'est gratuit de soumettre ici pour améliorer votre SEO maintenant.",
+    "ai-navigate": "Liste des Outils AI",
+    "exploreMore": "Obtenez Plus d'Outils AI"
   },
   "Submit": {
-    "title": "Soumettez votre outil AI",
-    "subTitle": "Soumettez votre outil AI et obtenez du trafic du Répertoire des outils AI de Tap4",
-    "website": "Nom du site",
-    "url": "URL du site",
+    "title": "Soumettez votre Outil AI",
+    "subTitle": "Soumettez votre Outil AI et Obtenez du trafic depuis AI Hub Tools",
+    "website": "Nom du Site Web",
+    "url": "URL du Site Web",
     "submit": "Soumettre",
     "add": "Ajouter",
-    "text": "à la page d'accueil de votre site, et vous pouvez soumettre votre site gratuitement avec succès !",
-    "networkError": "Erreur réseau",
+    "text": "à la page d'accueil de votre site Web, puis vous pourrez soumettre votre site Web gratuitement !",
+    "networkError": "Erreur Réseau",
     "success": "succès"
   },
   "Startup": {
-    "title": "Lancez votre startup",
-    "subTitle": "La liste ultime pour lancer et promouvoir le site web de votre startup. Pour ajouter à la liste ou aider à soumettre votre produit à une liste gratuite, veuillez envoyer un email à : contact@ai-hub.tools.",
-    "updateTime": "Organisé et mis à jour quotidiennement. Dernière mise à jour :",
+    "title": "Lancez votre Startup",
+    "subTitle": "La Liste Ultime des Sites Web pour Lancer et Promouvoir Votre Startup en Ligne. Pour ajouter à la liste ou aider à soumettre votre produit à la liste gratuite, veuillez nous envoyer un email: contact@ai-hub.tools.",
+    "updateTime": "Curated et mis à jour quotidiennement. Dernière mise à jour:",
     "table": {
       "da": "DA",
-      "website": "Site web",
+      "website": "Site Web",
       "tags": "Tags",
       "price": "Prix",
       "submission": "Soumission"
     },
     "detail": {
-      "visitWebsite": "Visiter le site",
+      "visitWebsite": "Visiter le Site Web",
       "introduction": "Introduction"
     }
   },
   "Explore": {
-    "title": "Découvrez les meilleurs outils AI de 2024",
-    "subTitle": "Trouvez vos outils AI préférés dans le Répertoire des outils AI de Tap4. La liste des outils AI est mise à jour quotidiennement par GPT-4o."
+    "title": "Découvrez les Meilleurs Outils AI 2024",
+    "subTitle": "Obtenez vos outils AI préférés dans AI Hub. La liste des outils AI est mise à jour quotidiennement par GPT-4o."
   },
   "Metadata": {
     "home": {
-      "title": "Obtenez vos meilleurs outils AI | Répertoire des outils AI de Tap4",
-      "description": "Le Répertoire des outils AI de Tap4 est un outil qui propose un répertoire gratuit d'outils AI. Obtenez vos outils AI préférés avec le Répertoire des outils AI de Tap4, qui vise à collecter tous les outils AI et à fournir le meilleur service aux utilisateurs.",
-      "keywords": "Répertoire des outils AI de Tap4"
+      "title": "Obtenez vos meilleurs Outils AI | Outils AI Hub",
+      "description": "AI Hub Tools est un outil qui propose un annuaire gratuit d'outils AI. Obtenez vos outils AI préférés avec AI Hub, AI Hub vise à collecter tous les outils AI et à fournir le meilleur aux utilisateurs.",
+      "keywords": "Outils AI Hub"
     },
     "ai": {
-      "titleSubfix": "Répertoire des outils AI de Tap4"
+      "titleSubfix": "Outils AI Hub"
     },
     "explore": {
-      "title": "Découvrez les meilleurs outils AI de 2024 | Répertoire des outils AI de Tap4",
-      "titlePrefix": "Explorez le Répertoire des outils AI de Tap4",
-      "titleSuffix": "Répertoire des outils AI de Tap4",
-      "description": "Le Répertoire des outils AI de Tap4 est un outil qui propose un répertoire gratuit d'outils AI. Obtenez vos outils AI préférés avec le Répertoire des outils AI de Tap4, qui vise à collecter tous les outils AI et à fournir le meilleur service aux utilisateurs.",
-      "keywords": "Répertoire des outils AI de Tap4"
+      "title": "Meilleurs Outils AI Explore 2024 | Outils AI Hub",
+      "titlePrefix": "Outils AI Hub Explore",
+      "titleSuffix": "Outils AI Hub",
+      "description": "AI Hub Tools est un outil qui propose un annuaire gratuit d'outils AI. Obtenez vos outils AI préférés avec AI Hub Tools, AI Hub Tools vise à collecter tous les outils AI et à fournir le meilleur aux utilisateurs.",
+      "keywords": "Outils AI Hub"
     },
     "submit": {
-      "title": "Soumettez votre outil AI et obtenez du trafic | Répertoire des outils AI de Tap4"
+      "title": "Soumettez votre outil AI et obtenez du trafic | Outils AI Hub"
     }
   }
 }

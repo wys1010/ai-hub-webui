@@ -3,183 +3,175 @@
     "loading": "Cargando..."
   },
   "Navigation": {
-    "title": "Directorio de Herramientas de IA de Tap4",
-    "discover": "Descubrir",
+    "title": "Herramientas de AI Hub",
+    "discover": "Descubrir IA",
     "submit": "Enviar",
     "newtools": "Nuevas Herramientas",
-    "startup": "Inicio",
+    "startup": "Puesta en Marcha",
     "menu": "Menú"
   },
   "Footer": {
-    "title": "Directorio de Herramientas de IA de Tap4",
-    "subTitle": "¡Descubre las mejores herramientas de IA de 2024 con el Directorio de Herramientas de IA de Tap4!",
+    "title": "Herramientas de AI Hub",
+    "subTitle": "¡Descubre las mejores herramientas de IA de 2024 con AI Hub Tools!",
     "support": "Soporte",
-    "tap4": "Tap4 AI",
-    "tattoo": "Generador de Tatuajes AI",
-    "privacy": "Política de Privacidad",
+    "tap4": "AI Hub",
+    "tattoo": "Generador de Tatuajes de IA",
+    "privacy": "Política de privacidad",
     "termsConditions": "Términos y Condiciones",
     "contactUs": "Contáctanos"
   },
   "Faq": {
     "1": {
-      "question": "¿Qué es el Directorio de Herramientas de IA de Tap4?",
-      "answer": "El Directorio de Herramientas de IA de Tap4 - ai-hub.tools crea un directorio de herramientas de IA que te ayuda a encontrar tus herramientas de IA favoritas. Aquí puedes encontrar herramientas de escritura de IA, herramientas de marketing de IA, herramientas de parafraseo de IA, herramientas de SEO de IA, herramientas de aprendizaje de IA, herramientas generadoras de IA, herramientas de investigación de IA, herramientas de arte de IA, herramientas de música de IA, herramientas de video de IA, herramientas de codificación de IA, herramientas de fotografía de IA y más."
+      "question": "¿Qué son las Herramientas de AI Hub?",
+      "answer": "Herramientas de AI Hub - ai-hub.tools está construyendo un directorio de herramientas de IA que te ayuda a obtener tus herramientas de IA favoritas. Puedes obtener herramientas de escritura de IA, herramientas de marketing de IA, herramientas de parafraseo de IA, herramientas de SEO de IA, herramientas de estudio de IA, herramientas generadoras de IA, herramientas de investigación de IA, herramientas de arte de IA, herramientas de música de IA, herramientas de vídeo de IA, herramientas de codificación de IA, herramientas de foto de IA y más aquí."
     },
     "2": {
-      "question": "¿Cómo encuentro tus herramientas de IA en el Directorio de Herramientas de IA de Tap4?",
+      "question": "¿Cómo encontrar tus herramientas de IA en AI Hub Tools?",
       "answer-1": "1. Abre ai-hub.tools.",
-      "answer-2": "2. Explora las herramientas de IA en el Directorio de Herramientas de IA de Tap4.",
-      "answer-3": "3. Haz clic en las herramientas de IA que necesitas para obtener los detalles y visita su sitio web."
+      "answer-2": "2. Explora las herramientas de IA en el AI Hub.",
+      "answer-3": "3. Haz clic en las herramientas de IA que necesitas para obtener los detalles y visitarlas."
     },
     "3": {
-      "question": "¿Cuáles son las características principales del Directorio de Herramientas de IA de Tap4?",
-      "answer-1": "1. Directorio gratuito de herramientas de IA: Es gratis encontrar tus herramientas de IA favoritas aquí.",
-      "answer-2": "2. Lista de inicio: La lista de inicio gratuita para desarrolladores de herramientas de IA."
+      "question": "¿Cuáles son las características principales de las Herramientas de AI Hub?",
+      "answer-1": "1. Directorio de Herramientas de IA Gratuitas: Es gratis encontrar tus herramientas de IA favoritas aquí.",
+      "answer-2": "2. Lista de Inicio: La lista de inicio gratuita para desarrolladores de herramientas de IA."
     },
     "4": {
-      "question": "¿Es gratis enviar herramientas de IA al Directorio de Herramientas de IA de Tap4?",
-      "answer": "Sí, actualmente es gratis. ¡Pero debes compartir un enlace de retroceso para el Directorio de Herramientas de IA de Tap4!"
+      "question": "¿Es gratis enviar herramientas de IA a AI Hub Tools?",
+      "answer": "Sí, es gratis actualmente. ¡Pero debes compartir el enlace de retroceso para AI Hub Tools!"
     },
     "5": {
-      "question": "¿Qué categorías de herramientas de IA admite el Directorio de Herramientas de IA de Tap4?",
-      "answer": "Más adelante, admitiremos todo tipo de herramientas de IA. Por favor, espera unos días."
+      "question": "¿Cuál es la lista de categorías de Herramientas de IA que soporta AI Hub Tools?",
+      "answer": "Soportaremos todo tipo de Herramientas de IA más adelante. Por favor, espera unos días."
     },
     "6": {
-      "question": "¿Con qué frecuencia se actualiza la lista de herramientas de IA en el Directorio de Herramientas de IA de Tap4?",
-      "answer": "La lista de herramientas de IA se actualiza diariamente."
+      "question": "¿Cuál es la frecuencia de actualización de las Herramientas de IA en AI Hub Tools?",
+      "answer": "La lista de Herramientas de IA se actualizará a diario."
     },
     "7": {
-      "question": "¿Apoya aquí a GPT-4o o a Sora AI?",
-      "answer": "Puedes obtener la herramienta GPT-4o o Sora AI aquí. Aquí tienes la introducción a GPT-4o y Sora Video, y puedes visitar el sitio web de las herramientas."
+      "question": "¿Soporta GPT-4o o Sora AI aquí?",
+      "answer": "Puedes obtener la herramienta GPT-4o o Sora AI aquí. Aquí tienes la introducción de GPT-4o y el vídeo de Sora, y puedes visitar el sitio web de las herramientas."
     },
     "8": {
-      "question": "Solución de Problemas",
-      "answer": "Si los contenidos no se muestran, intenta usar otro navegador o borrar tu caché. Si los problemas persisten, contáctanos en contact@6677.ai."
+      "question": "Resolución de problemas",
+      "answer": "Si el contenido no aparece, prueba un navegador diferente, borra tu caché. Si los problemas persisten, contáctanos en contact@ai-hub.tools."
     },
     "9": {
-      "question": "¿Cómo se genera el contenido del Directorio de IA de Tap4?",
+      "question": "¿Cómo se genera el contenido de AI Hub Tools?",
       "answer": "El contenido de la descripción de las herramientas de IA es generado por GPT-4o de OpenAI."
     },
     "10": {
-      "question": "¿Cuáles son los derechos de uso de las herramientas de IA?",
-      "answer": "El Directorio de Herramientas de IA de Tap4 es solo el directorio para herramientas de IA. Los derechos de uso de las herramientas de IA se basan en el sitio web de las herramientas de IA."
+      "question": "¿Cuáles son los derechos de uso de las Herramientas de IA?",
+      "answer": "AI Hub Tools es solo el Directorio de IA para Herramientas de IA. Los derechos de uso de las Herramientas de IA se basan en el sitio web de las herramientas de IA."
     },
     "11": {
-      "question": "¿Es de código abierto la interfaz de usuario web del Directorio de Herramientas de IA de Tap4?",
-      "answer": "Sí, pondremos la interfaz de usuario web del Directorio de Herramientas de IA de Tap4 en GitHub (https://github.com/6677-ai/tap4-ai-webui) de código abierto. ¡Por favor, danos una estrella!"
+      "question": "¿Es de código abierto la interfaz de usuario web de AI Hub Tools?",
+      "answer": "Sí, vamos a abrir el código fuente de la interfaz de usuario web de AI Hub Tools en github (https://github.com/wys1010/ai-hub-webui). Por favor, dános tu estrella."
     },
     "title": "Preguntas Frecuentes"
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Política de Privacidad del Directorio de Herramientas de IA de Tap4",
-      "1-p": "Esta página se utiliza para informar a los visitantes sobre mis políticas con respecto a la recopilación, el uso y la divulgación de información personal si alguien decide utilizar mi servicio. Al utilizar mi servicio, usted acepta la recopilación y el uso de información en relación con esta política. La información personal que recojo se utiliza para proporcionar y mejorar el servicio. No utilizaré ni compartiré su información con nadie, excepto como se describe en esta Política de Privacidad. Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones.",
+      "1-h1": "Política de Privacidad para AI Hub Tools",
+      "1-p": "Esta página se utiliza para informar a los visitantes sobre mis políticas con respecto a la recopilación, el uso y la divulgación de Información Personal si alguien decide utilizar mi Servicio. Si decides utilizar mi Servicio, aceptas la recopilación y el uso de información en relación con esta política. La Información Personal que recopilo se utiliza para proporcionar y mejorar el Servicio. No usaré ni compartiré tu información con nadie, excepto según se describe en esta Política de Privacidad. Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones.",
       "2-h2": "1. Recopilación y Uso de Información",
-      "2-p": "Para una mejor experiencia mientras utiliza nuestro Servicio, puedo solicitarle que nos proporcione cierta información de identificación personal. La información que solicito se guardará en su dispositivo y no será recopilada de ninguna manera por mí. La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarlo.",
-      "3-h2": "2. Datos de Registro",
-      "3-p": "Quiero informarle que en caso de que ocurra un error en la aplicación, recopilo datos e información (a través de productos de terceros) en su teléfono llamados Datos de Registro. Estos Datos de Registro pueden incluir información como la dirección IP (Internet Protocol) de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de laplicación al utilizar mi servicio, la fecha y hora de uso del servicio y otras estadísticas.",
+      "2-p": "Para una mejor experiencia, mientras usas nuestro Servicio, es posible que te solicite que nos proporciones cierta información de identificación personal. La información que solicito se retendrá en tu dispositivo y no se recopilará de ninguna manera. La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarte.",
+      "3-h2": "2. Datos de registro",
+      "3-p": "Quiero informarte que cada vez que uses mi Servicio, en caso de error en la aplicación, recopilo datos e información (a través de productos de terceros) en tu teléfono llamados Datos de Registro. Estos Datos de Registro pueden incluir información como la dirección IP de tu dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación al utilizar mi Servicio, la hora y la fecha de tu uso del Servicio y otras estadísticas.",
       "4-h2": "3. Cookies",
-      "4-p": "Las cookies son archivos con una pequeña cantidad de datos que se utilizan comúnmente como identificadores únicos anónimos. Estos se envían a su navegador desde los sitios web que visita y se almacenan en la memoria interna de su dispositivo. Este servicio no utiliza explícitamente estas \"cookies\". Sin embargo, la aplicación puede utilizar código y bibliotecas de terceros que utilizan \"cookies\" para recopilar información y mejorar sus servicios. Tiene la opción de aceptar o rechazar estas cookies y saber cuándo se envía una cookie a su dispositivo. Si opta por rechazar nuestras cookies, es posible que no pueda utilizar algunas partes de este servicio.",
+      "4-p": "Las cookies son archivos con una pequeña cantidad de datos que comúnmente se utilizan como identificadores únicos anónimos. Estos se envían a tu navegador desde los sitios web que visitas y se almacenan en la memoria interna de tu dispositivo. Este Servicio no utiliza estas \"cookies\" explícitamente. Sin embargo, la aplicación puede usar código de terceros y bibliotecas que usan \"cookies\" para recopilar información y mejorar sus servicios. Tienes la opción de aceptar o rechazar estas cookies y saber cuándo se está enviando una cookie a tu dispositivo. Si eliges rechazar nuestras cookies, es posible que no puedas utilizar algunas partes de este Servicio.",
       "5-h2": "4. Proveedores de Servicios",
-      "5-p-1": "Puedo emplear compañías e individuos de terceros por las siguientes razones:",
-      "5-li-1": "Facilitar nuestro Servicio;",
-      "5-li-2": "Proporcionar el Servicio en nuestro nombre;",
-      "5-li-3": "Realizar servicios relacionados con el Servicio;",
-      "5-li-4": "Ayudarnos a analizar cómo se utiliza nuestro Servicio;",
-      "5-p-2": "Quiero informar a los usuarios de este Servicio que estos terceros tienen acceso a su Información Personal. La razón es realizar las tareas asignadas a ellos en nuestro nombre. Sin embargo, están obligados a no divulgar ni utilizar la información para ningún otro propósito.",
+      "5-p-1": "Puedo emplear a empresas y personas de terceros debido a las siguientes razones:",
+      "5-li-1": "Para facilitar nuestro Servicio;",
+      "5-li-2": "Para proporcionar el Servicio en nuestro nombre;",
+      "5-li-3": "Para realizar servicios relacionados con el Servicio;",
+      "5-li-4": "Para ayudarnos a analizar cómo se utiliza nuestro Servicio;",
+      "5-p-2": "Quiero informar a los usuarios de este Servicio que estos terceros tienen acceso a tu Información Personal. El motivo es realizar las tareas asignadas a ellos en nuestro nombre. Sin embargo, están obligados a no divulgar ni utilizar la información para ningún otro fin.",
       "6-h2": "5. Seguridad",
-      "6-p": "Valoramos su confianza al proporcionarnos su Información Personal, por lo que nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Pero recuerde que ningún método de transmisión por Internet, o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su seguridad absoluta.",
+      "6-p": "Valoro tu confianza en proporcionarnos tu Información Personal, por lo que nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Pero recuerda que ningún método de transmisión por internet o método de almacenamiento electrónico es 100% seguro y confiable, y no puedo garantizar su seguridad absoluta.",
       "7-h2": "6. Enlaces a Otros Sitios",
-      "7-p": "Este Servicio puede contener enlaces a otros sitios. Si hace clic en un enlace de un tercero, será dirigido a ese sitio. Tenga en cuenta que estos sitios externos no son operados por mí. Por lo tanto, le recomiendo encarecidamente que revise la Política de Privacidad de estos sitios web. No tengo control sobre, y no asumo responsabilidad alguna por el contenido, las políticas de privacidad o las prácticas de sitios o servicios de terceros.",
+      "7-p": "Este Servicio puede contener enlaces a otros sitios. Si haces clic en un enlace de un tercero, serás dirigido a ese sitio. Ten en cuenta que estos sitios externos no son operados por mí. Por lo tanto, te recomiendo encarecidamente que revises la Política de Privacidad de estos sitios web. No tengo control sobre y no asumo ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de los sitios web o servicios de terceros.",
       "8-h2": "7. Cambios en esta Política de Privacidad",
-      "8-p": "Podemos actualizar nuestra Política de Privacidad de vez en cuando. Por lo tanto, se le recomienda que revise esta página periódicamente para ver cualquier cambio. Le notificaré cualquier cambio publicando la nueva Política de Privacidad en esta página. Estos cambios son efectivos inmediatamente después de que se publiquen en esta página."
+      "8-p": "Puedo actualizar nuestra Política de Privacidad de vez en cuando. Por lo tanto, es recomendable que revises esta página periódicamente para ver si hay cambios. Te notificaré de cualquier cambio publicando la nueva Política de Privacidad en esta página. Estos cambios entran en vigencia inmediatamente después de que se publiquen en esta página."
     },
     "termsConditions": {
-      "1-h1": "Términos de Servicio para el Directorio de IA de Tap4",
-      "1-p": "¡Bienvenido al Directorio de IA de Tap4! Nuestro sitio web, ubicado en https://ai-hub.tools (\"Sitio web\"), está dedicado a proporcionarle la capacidad de crear imágenes personalizadas. Al acceder o utilizar nuestro Sitio web, acepta quedar sujeto a estos Términos de Servicio (\"Términos\"). Si no está de acuerdo con alguna parte de los términos, queda prohibido utilizar el Sitio web.",
+      "1-h1": "Términos de Servicio de AI Hub Tools",
+      "1-p": "¡Bienvenido a AI Hub Tools! Nuestro sitio web, que se encuentra en https://ai-hub.tools (\"Sitio web\"), está diseñado para brindarte la oportunidad de crear imágenes personalizadas. Al acceder o utilizar nuestro Sitio web, aceptas estos Términos de Servicio (\"Términos\"). Si no estás de acuerdo con alguna parte de los Términos, no se te permite utilizar el Sitio web.",
       "2-h2": "1. Licencia de Uso",
-      "2-p": "Se le otorga una licencia limitada, no exclusiva y no transferible para utilizar el Sitio web y sus servicios para fines personales y no comerciales. Esta licencia no incluye ningún derecho para copiar, modificar o distribuir el contenido del Sitio web o utilizarlo para fines comerciales sin nuestro consentimiento previo por escrito.",
+      "2-p": "Recibirás una licencia limitada, no exclusiva y no transferible para usar el Sitio web y sus servicios para fines personales, no comerciales. Esta licencia no incluye derechos para copiar, modificar o distribuir el contenido del Sitio web o para su uso comercial sin nuestro consentimiento previo por escrito.",
       "3-h2": "2. Propiedad",
-      "3-p": "La propiedad de las imágenes generadas a partir de texto en el Sitio web pertenece a la persona que creó la imagen. ai-hub.tools no reclama ningún derecho de propiedad sobre las imágenes creadas por los usuarios.",
-      "4-h2": "3. Recopilación de Datos del Usuario",
-      "4-p": "Recopilamos datos personales (nombre, correo electrónico e información de pago) y datos no personales (cookies web) para mejorar nuestros servicios. El uso de estos datos está regido por nuestra Política de Privacidad, que se puede encontrar en",
-      "terms-of-service": "terms-of-service",
+      "3-p": "La propiedad de las imágenes generadas a partir del texto en el Sitio web pertenece a la persona que creó la imagen. ai-hub.tools no reclama la propiedad de las imágenes creadas por los usuarios.",
+      "4-h2": "3. Recopilación de Datos de Usuario",
+      "4-p": "Recopilamos datos personales (nombre, correo electrónico e información de pago) y datos no personales (cookies web) para mejorar nuestros servicios. El uso de estos datos está sujeto a nuestra Política de Privacidad, que puedes encontrar en",
+      "terms-of-service": "Términos de Servicio",
       "5-h2": "4. Ley Aplicable",
-      "5-p": "Estos Términos se regirán e interpretarán de acuerdo con las leyes de los Estados Unidos de América, sin tener en cuenta sus disposiciones sobre conflicto de leyes.",
+      "5-p": "Estos Términos están sujetos a las leyes de los Estados Unidos de América, sin tener en cuenta sus disposiciones sobre conflictos de leyes.",
       "6-h2": "5. Cambios en los Términos",
-      "6-p": "Tap4 AI Directorio se reserva el derecho, a nuestra entera discreción, de modificar o reemplazar estos Términos en cualquier momento. Notificaremos a los usuarios cualquier cambio por correo electrónico. Su uso continuado del Sitio web después de cualquier cambio en estos Términos constituirá su aceptación de dichos cambios.",
+      "6-p": "AI Hub Tools se reserva el derecho de cambiar o reemplazar estos Términos en cualquier momento a su sola discreción. Notificaremos a los usuarios sobre cualquier cambio por correo electrónico. El uso continuado del Sitio web después de cualquier cambio en estos Términos constituirá la aceptación de dichos cambios.",
       "7-h2": "6. Información de Contacto",
-      "7-p": "Si tiene alguna pregunta sobre estos Términos, contáctenos en contact@6677.ai.",
-      "last-p": "Al utilizar el Directorio de IA de Tap4, usted acepta estos Términos de Servicio."
+      "7-p": "Si tienes alguna pregunta sobre estos Términos, contáctanos en contact@ai-hub.tools.",
+      "last-p": "Al utilizar AI Hub Tools, aceptas estos Términos de Servicio."
     }
   },
   "NotFound": {
     "title": "404 No Encontrado",
-    "goHome": "Ir a Inicio"
+    "goHome": "Ir a la Página de Inicio"
   },
   "Home": {
-    "title": "Tap4 AI - Descubre las mejores herramientas de IA 2024",
-    "subTitle": "Obtén tus herramientas de IA favoritas en el Directorio de Herramientas de IA de Tap4. La lista de herramientas de IA se actualiza diariamente por GPT-4o. Es gratis enviar aquí para mejorar tu SEO ahora.",
-    "ai-navigate": "Lista de herramientas de IA",
-    "exploreMore": "Obtén más herramientas de IA",
-    "checkDetail": "Ver detalles",
-    "search": "Buscar",
-    "result": "Resultado de búsqueda",
-    "empty": "No hay datos disponibles"
-  },
-  "Category": {
-    "home": "Inicio",
-    "empty": "No hay datos disponibles"
+    "title": "Herramientas de AI Hub - Descubre las mejores herramientas de IA de 2024",
+    "subTitle": "Obtén tus herramientas de IA favoritas en AI Hub. La lista de herramientas de IA se actualiza diariamente por GPT-4o. ¡Es gratis enviar aquí para mejorar tu SEO!",
+    "ai-navigate": "Lista de Herramientas de IA",
+    "exploreMore": "Obtener Más Herramientas de IA"
   },
   "Submit": {
     "title": "Envía tu Herramienta de IA",
-    "subTitle": "Envía tu Herramienta de IA y Obtén tráfico desde el Directorio de IA de Tap4",
+    "subTitle": "Envía tu Herramienta de IA y recibe tráfico de las Herramientas de AI Hub",
     "website": "Nombre del Sitio Web",
-    "url": "URL",
+    "url": "URL del Sitio Web",
     "submit": "Enviar",
-    "add": "Agregar",
-    "text": "a la página de inicio de tu sitio web, ¡y luego puedes enviar tu sitio web con éxito de forma gratuita!",
-    "networkError": "Error de red",
-    "success": "éxito"
+    "add": "Añadir",
+    "text": "a tu página de inicio del sitio web, ¡y luego puedes enviar tu sitio web con éxito gratis!",
+    "networkError": "Error de Red",
+    "success": "Éxito"
   },
   "Startup": {
-    "title": "Impulsa el Lanzamiento de tu Startup",
-    "subTitle": "La Lista Definitiva de Sitios Web para Lanzar y Promocionar tu Startup en Línea. Para agregar a la lista o ayudar a enviar tu producto a la lista gratuita, por favor contáctanos: contact@ai-hub.tools.",
-    "updateTime": "Curada y actualizada diariamente. Última actualización:",
+    "title": "Inicia tu Lanzamiento de Start-Up",
+    "subTitle": "La lista definitiva de sitios web para lanzar y promocionar tu start-up online. Para aplicar a la lista o ayudar en la presentación de tu producto para la lista gratuita, envíanos un correo electrónico a: contact@ai-hub.tools.",
+    "updateTime": "Compilado y actualizado diariamente. Última actualización:",
     "table": {
       "da": "DA",
       "website": "Sitio Web",
       "tags": "Etiquetas",
       "price": "Precio",
-      "submission": "Envío"
+      "submission": "Presentación"
     },
     "detail": {
-      "visitWebsite": "Visitar Sitio Web",
+      "visitWebsite": "Visita el Sitio Web",
       "introduction": "Introducción"
     }
   },
   "Explore": {
-    "title": "Descubre las Mejores Herramientas de IA 2024",
-    "subTitle": "在AI工具集中找到您喜爱的AI工具。AI工具列表每天由GPT-4o更新。"
+    "title": "Descubre las mejores herramientas de IA de 2024",
+    "subTitle": "Obtén tus herramientas de IA favoritas en AI Hub. La lista de herramientas de IA se actualiza diariamente por GPT-4o."
   },
   "Metadata": {
     "home": {
-      "title": "Obtén tus mejores Herramientas de IA | Directorio de IA de Tap4",
-      "description": "El Directorio de IA de Tap4 es una herramienta que proporciona un Directorio gratuito de Herramientas de IA. Obtén tus herramientas de IA favoritas con el Directorio de IA de Tap4, el cual tiene como objetivo recopilar todas las herramientas de IA y ofrecer lo mejor para los usuarios.",
-      "keywords": "Directorio de IA de Tap4"
+      "title": "Obtén tus mejores herramientas de IA | Herramientas de AI Hub",
+      "description": "Herramientas de AI Hub es una herramienta que proporciona un directorio de herramientas de IA gratuitas. Obtén tus herramientas de IA favoritas con AI Hub, AI Hub tiene como objetivo recopilar todas las herramientas de IA y proporcionar lo mejor para los usuarios.",
+      "keywords": "Herramientas de AI Hub"
     },
     "ai": {
-      "titleSubfix": "Directorio de IA de Tap4"
+      "titleSubfix": "Herramientas de AI Hub"
     },
     "explore": {
-      "title": "Mejor Exploración de Herramientas de IA 2024 | Directorio de IA de Tap4",
-      "titlePrefix": "Explorar Directorio de IA de Tap4",
-      "titleSuffix": "Directorio de IA de Tap4",
-      "description": "El Directorio de IA de Tap4 es una herramienta que proporciona un Directorio gratuito de Herramientas de IA. Obtén tus herramientas de IA favoritas con el Directorio de IA de Tap4, el cual tiene como objetivo recopilar todas las herramientas de IA y ofrecer lo mejor para los usuarios.",
-      "keywords": "Directorio de IA de Tap4"
+      "title": "Descubre las mejores herramientas de IA de 2024 | Herramientas de AI Hub",
+      "titlePrefix": "Explorar Herramientas de AI Hub",
+      "titleSuffix": "Herramientas de AI Hub",
+      "description": "Herramientas de AI Hub es una herramienta que proporciona un directorio de herramientas de IA gratuitas. Obtén tus herramientas de IA favoritas con Herramientas de AI Hub, AI Hub tiene como objetivo recopilar todas las herramientas de IA y proporcionar lo mejor para los usuarios.",
+      "keywords": "Herramientas de AI Hub"
     },
     "submit": {
-      "title": "Envía tu herramienta de IA y obtén tráfico | Directorio de IA de Tap4"
+      "title": "Envía tu Herramienta de IA y Recibe Tráfico | Herramientas de AI Hub"
     }
   }
 }
