@@ -121,7 +121,11 @@
     "title": "KI-Hub-Werkzeuge - Entdecken Sie die besten KI-Werkzeuge 2024",
     "subTitle": "Erhalten Sie Ihre Lieblings-KI-Werkzeuge im KI-Hub. Die Liste der KI-Werkzeuge wird täglich von GPT-4o aktualisiert. Es ist kostenlos, hier einzusenden, um Ihr SEO zu verbessern.",
     "ai-navigate": "KI-Werkzeugliste",
-    "exploreMore": "Mehr KI-Werkzeuge erhalten"
+    "exploreMore": "Mehr KI-Werkzeuge erhalten",
+    "checkDetail": "Details anzeigen",
+    "search": "Suche",
+    "result": "Suchergebnis",
+    "empty": "Keine Daten verfügbar"
   },
   "Submit": {
     "title": "Reichen Sie Ihr KI-Tool ein",

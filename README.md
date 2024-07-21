@@ -91,7 +91,7 @@ lib/data.ts -> detailList
 - email us: contact@ai-hub.tools
 
 ## Links to our products
-### TAP4-AI-Directory
+### AI-Hub-Tools
 The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools, etc. For more, please visit: [AI HUB](https://ai-hub.tools)
 
 ### How to get your first users for startup at the website list

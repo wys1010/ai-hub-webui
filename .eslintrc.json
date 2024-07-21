@@ -22,6 +22,6 @@
     "operator-linebreak": "off",
     "react/require-default-props": "off",
     "object-curly-newline": "off",
-    "linebreak-style": ["error", process.platform === "win32" ? "windows" : "unix"],
+    "linebreak-style": ["error", "windows"]
     }
 }

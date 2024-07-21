@@ -121,7 +121,11 @@
     "title": "Ferramentas AI Hub - Descubra as Melhores Ferramentas AI 2024",
     "subTitle": "Obtenha suas ferramentas AI favoritas no AI Hub. A lista de ferramentas AI é atualizada diariamente pelo GPT-4o. É grátis enviar aqui para melhorar seu SEO agora.",
     "ai-navigate": "Lista de Ferramentas AI",
-    "exploreMore": "Obtenha Mais Ferramentas AI"
+    "exploreMore": "Obtenha Mais Ferramentas AI",
+    "checkDetail": "Ver Detalhe",
+    "search": "Pesquisar",
+    "result": "Resultado da pesquisa",
+    "empty": "Nenhum dado disponível"
   },
   "Submit": {
     "title": "Envie sua Ferramenta AI",

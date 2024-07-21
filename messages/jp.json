@@ -112,7 +112,11 @@
     "title": "AIハブツール - 2024年の最高のAIツールを発見",
     "subTitle": "AIハブであなたのお気に入りのAIツールを取得。AIツールリストはGPT-4oによって毎日更新されます。今すぐここに無料で提出して、あなたのSEOを強化しましょう。",
     "ai-navigate": "AIツールリスト",
-    "exploreMore": "もっと多くのAIツールを取得"
+    "exploreMore": "もっと多くのAIツールを取得",
+    "checkDetail": "詳細を見る",
+    "search": "検索",
+    "result": "検索結果",
+    "empty": "データがありません"
   },
   "Submit": {
     "title": "あなたのAIツールを提出",

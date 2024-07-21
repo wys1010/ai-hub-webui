@@ -13,7 +13,13 @@ export const NAV_LINKS = [
   },
 ];
 
+export const RevalidateOneHour = 3600;
+export const RevalidateOneDay = 3600 * 24;
+export const RevalidateOneWeek = 3600 * 24 * 7;
+export const RevalidateOneMonth = 3600 * 24 * 30;
+
 export const PAGE_SIZE = 20;
+export const InfoPageSize = 12;
 
 export const FORM_PLACEHOLDER = 'https://www.ai-hub.tools/';
 
@@ -292,6 +298,20 @@ export const STARTUP_LIST = [
     URL: 'https://aitoolskit.ai/submit-ai-tool/',
     Price: 'Free',
     Tag: '',
+  },
+  {
+    DA: 38,
+    Website: 'Tap4 AI',
+    URL: 'https://tap4.ai/submit',
+    Price: 'Free',
+    Tag: 'AI',
+  },
+  {
+    DA: 38,
+    Website: 'TopFree AI',
+    URL: 'https://topfree.ai/submit/',
+    Price: 'Free',
+    Tag: 'AI',
   },
   {
     DA: 34,

@@ -121,7 +121,11 @@
     "title": "AI Hub 工具 - 探索 2024 年最佳 AI 工具",
     "subTitle": "在 AI Hub 獲取您喜愛的 AI 工具。AI 工具列表每日通過 GPT-4o 更新。現在免費提交以提高您的 SEO。",
     "ai-navigate": "AI 工具列表",
-    "exploreMore": "獲取更多 AI 工具"
+    "exploreMore": "獲取更多 AI 工具",
+    "checkDetail": "查看詳情",
+    "search": "搜索",
+    "result": "搜索結果",
+    "empty": "無數據"
   },
   "Submit": {
     "title": "提交您的 AI 工具",

@@ -121,7 +121,11 @@
     "title": "Outils AI Hub - Découvrez les Meilleurs Outils AI 2024",
     "subTitle": "Obtenez vos outils AI préférés dans AI Hub. La liste des outils AI est mise à jour quotidiennement par GPT-4o. C'est gratuit de soumettre ici pour améliorer votre SEO maintenant.",
     "ai-navigate": "Liste des Outils AI",
-    "exploreMore": "Obtenez Plus d'Outils AI"
+    "exploreMore": "Obtenez Plus d'Outils AI",
+    "checkDetail": "Voir le détail",
+    "search": "Recherche",
+    "result": "Résultat de recherche",
+    "empty": "Aucune donnée disponible"
   },
   "Submit": {
     "title": "Soumettez votre Outil AI",
