@@ -38,6 +38,33 @@ export default function Footer() {
     },
   ];
 
+  const links = [
+    {
+      title: 'Tap4 AI',
+      href: 'https://tap4.ai/?utm_source=ai-hub.tools&utm_medium=referral&ref=ai-hub.tools',
+    },
+    {
+      title: 'Woy AI',
+      href: 'https://woy.ai/?utm_source=ai-hub.tools&utm_medium=referral&ref=ai-hub.tools',
+    },
+    {
+      title: 'AllInAi Tool',
+      href: 'https://allinai.tools/?utm_source=ai-hub.tools&utm_medium=referral&ref=ai-hub.tools',
+    },
+    {
+      title: 'MagicBox Tools',
+      href: 'https://magicbox.tools/?utm_source=ai-hub.tools&utm_medium=referral&ref=ai-hub.tools',
+    },
+    {
+      title: 'AI WITH.ME',
+      href: 'https://aiwith.me/?utm_source=ai-hub.tools&utm_medium=referral&ref=ai-hub.tools',
+    },
+    {
+      title: 'Toolsapp',
+      href: 'https://toolsapp.cc/?utm_source=ai-hub.tools&utm_medium=referral&ref=ai-hub.tools',
+    },
+  ];
+
   const INFO_LIST = [
     {
       title: t('privacy'),
@@ -57,6 +84,21 @@ export default function Footer() {
           <h2 className='text-xs'>{t('subTitle')}</h2>
         </div>
         <div className='mt-5 flex flex-col items-center gap-y-5 lg:mt-0 lg:flex-row lg:items-stretch lg:gap-x-10'>
+          <div className='flex w-full flex-col gap-2'>
+            <h2 className='font-bold'>{t('links')}</h2>
+            {links.map((item) => (
+              <a
+                href={item.href}
+                key={item.href}
+                target='_blank'
+                rel='noreferrer'
+                className='text-xs hover:opacity-70 lg:text-sm'
+                title={item.title}
+              >
+                {item.title}
+              </a>
+            ))}
+          </div>
           <div className='flex w-full flex-col gap-2'>
             <h2 className='font-bold'>{t('support')}</h2>
             {SupportLinks.map((item) => (

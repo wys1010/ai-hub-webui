@@ -45,7 +45,7 @@ export default function SearchForm({ defaultSearch }: { defaultSearch?: string }
                   <Input
                     placeholder={t('search')}
                     {...field}
-                    className='h-8 w-full rounded-full border border-white/40 !bg-transparent pr-10 placeholder:text-white/40 lg:h-[38px] lg:w-[392px] lg:pr-12'
+                    className='h-8 w-full rounded-full border border-white/40 !bg-transparent pr-10 placeholder:text-white/40 lg:h-[55px] lg:w-[500px] lg:pr-12'
                   />
                   <Separator className='absolute right-8 h-6 w-px bg-white/40 lg:right-10' orientation='vertical' />
                   <button type='submit' className='absolute right-2 lg:right-3'>

@@ -31,15 +31,16 @@ export default function Navigation() {
           <div>
             <Link className='hover:opacity-80' href='/' title={t('title')}>
               <BaseImage
-                src='/images/tap4-ai.svg'
+                src='/images/logo.svg'
                 alt={t('title')}
                 title={t('title')}
                 width={64}
                 height={64}
-                className='size-[58px] lg:size-16'
+                className='size-[58px] lg:size-8'
               />
             </Link>
           </div>
+          {/* <span className='text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-600'>ai-hub.tools</span> */}
           {/* pc */}
           <div className='ml-auto flex h-full items-center gap-x-[46px]'>
             <ul className='hidden h-full flex-1 capitalize lg:flex lg:gap-x-12'>
