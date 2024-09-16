@@ -2,8 +2,8 @@
 
 /* eslint-disable react/jsx-props-no-spreading */
 import { useState } from 'react';
-import { createClient } from '@/db/supabase/client';
 import { zodResolver } from '@hookform/resolvers/zod';
+import { signIn, useSession } from 'next-auth/react';
 import { useTranslations } from 'next-intl';
 import { useForm } from 'react-hook-form';
 import { toast } from 'sonner';
@@ -21,7 +21,7 @@ const FormSchema = z.object({
 });
 
 export default function SubmitForm({ className }: { className?: string }) {
-  const supabase = createClient();
+  const { status } = useSession();
   const t = useTranslations('Submit');
 
   const [loading, setLoading] = useState(false);
@@ -34,19 +34,43 @@ export default function SubmitForm({ className }: { className?: string }) {
     },
   });
 
+  const renderButtonContent = () => {
+    if (loading) {
+      return <Spinning className='size-[22px]' />;
+    }
+    if (status !== 'authenticated') {
+      return t('loginRequired');
+    }
+    return t('submit');
+  };
+
   const onSubmit = async (formData: z.infer<typeof FormSchema>) => {
-    let errMsg: any = t('networkError');
+    if (status !== 'authenticated') {
+      toast.error('please login with google');
+      signIn('google');
+      return;
+    }
+
+    const errMsg = t('networkError');
+    setLoading(true);
     try {
-      setLoading(true);
-      const { error } = await supabase.from('submit').insert({
-        name: formData.website,
-        url: formData.url,
-        // email: ''
+      const response = await fetch('/api/submit', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          name: formData.website,
+          url: formData.url,
+        }),
       });
-      if (error) {
-        errMsg = error.message;
-        throw new Error();
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        // console.log('errorData', errorData);
+        throw new Error(errorData.error || 'submit failed');
       }
+
       toast.success(t('success'));
       form.reset();
     } catch (error) {
@@ -104,13 +128,13 @@ export default function SubmitForm({ className }: { className?: string }) {
         <div className='flex flex-col gap-[10px] lg:gap-8'>
           <button
             type='submit'
-            disabled={loading}
+            disabled={loading || status !== 'authenticated'}
             className={cn(
               'flex-center mt-auto h-[48px] w-full gap-4 rounded-[8px] bg-white text-center font-bold text-black hover:cursor-pointer hover:opacity-80',
-              loading && 'hover:cursor-not-allowed',
+              (loading || status !== 'authenticated') && 'opacity-50 hover:cursor-not-allowed',
             )}
           >
-            {loading ? <Spinning className='size-[22px]' /> : t('submit')}
+            {renderButtonContent()}
           </button>
           <p className='text-[13px] text-white/40'>
             {t('add')} <span className='text-white'>{WEBSITE_EXAMPLE}</span> {t('text')}

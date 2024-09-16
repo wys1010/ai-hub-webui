@@ -10,6 +10,7 @@ import { cn } from '@/lib/utils';
 
 import BaseImage from '../image/BaseImage';
 import LocaleSwitcher from '../LocaleSwitcher';
+import AuthButton from './AuthButton';
 import MenuBtn from './MenuBtn';
 import NavigationDrawer from './NavigationDrawer';
 
@@ -66,6 +67,7 @@ export default function Navigation() {
           <div className='mx-3 flex items-center gap-x-4 lg:hidden'>
             <MenuBtn open={open} onClick={() => setOpen(!open)} />
           </div>
+          <AuthButton />
         </nav>
       </header>
       <NavigationDrawer open={open} setOpen={setOpen} />
