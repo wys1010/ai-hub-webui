@@ -16,8 +16,8 @@ import { Input } from '@/components/ui/input';
 import Spinning from '@/components/Spinning';
 
 const FormSchema = z.object({
-  website: z.string(),
-  url: z.string().url(),
+  website: z.string().min(1, { message: 'website name is required' }),
+  url: z.string().url().min(1, { message: 'URL is required' }),
 });
 
 export default function SubmitForm({ className }: { className?: string }) {
@@ -48,6 +48,11 @@ export default function SubmitForm({ className }: { className?: string }) {
     if (status !== 'authenticated') {
       toast.error('please login with google');
       signIn('google');
+      return;
+    }
+
+    if (!formData.website.trim() || !formData.url.trim()) {
+      toast.error('All fields must be filled');
       return;
     }
 
