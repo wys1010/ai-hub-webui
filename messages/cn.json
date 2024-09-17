@@ -137,7 +137,8 @@
     "add": "添加",
     "text": "到您的网站首页，然后您可以免费成功提交您的网站！",
     "networkError": "网络错误",
-    "success": "成功"
+    "success": "成功",
+    "loginRequired": "需要登录"
   },
   "Startup": {
     "title": "启动您的创业公司",

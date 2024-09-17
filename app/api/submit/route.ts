@@ -47,12 +47,12 @@ export async function POST(req: NextRequest) {
       .maybeSingle();
 
     if (existingEntryError) {
-      return NextResponse.json({ error: 'URL already exists' }, { status: 200 });
+      return NextResponse.json({ error: 'submit failed' }, { status: 500 });
     }
 
-    // if (existingEntry) {
-    //   return NextResponse.json({ error: 'URL already exists' }, { status: 409 });
-    // }
+    if (existingEntry) {
+      return NextResponse.json({ error: 'URL already exists' }, { status: 409 });
+    }
 
     // 插入新数据
     const { error: insertError } = await supabase.from('submit').insert({

@@ -137,7 +137,8 @@
     "add": "Añadir",
     "text": "a tu página de inicio del sitio web, ¡y luego puedes enviar tu sitio web con éxito gratis!",
     "networkError": "Error de Red",
-    "success": "Éxito"
+    "success": "Éxito",
+    "loginRequired": "Requiere Inicio de Sesión"
   },
   "Startup": {
     "title": "Inicia tu Lanzamiento de Start-Up",

@@ -65,14 +65,22 @@ export default function SubmitForm({ className }: { className?: string }) {
         }),
       });
 
-      if (!response.ok) {
-        const errorData = await response.json();
-        // console.log('errorData', errorData);
-        throw new Error(errorData.error || 'submit failed');
-      }
+      const responseText = await response.text();
+      // eslint-disable-next-line no-console
+      console.log('响应内容:', responseText);
 
-      toast.success(t('success'));
-      form.reset();
+      if (response.status !== 200) {
+        try {
+          const responseData = JSON.parse(responseText);
+          toast.error(responseData.error || 'submit failed');
+        } catch (error) {
+          // eslint-disable-next-line no-console
+          console.error('Error parsing response JSON:', error);
+        }
+      } else {
+        toast.success(t('success'));
+        form.reset();
+      }
     } catch (error) {
       toast.error(errMsg);
     } finally {

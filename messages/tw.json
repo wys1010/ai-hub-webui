@@ -137,7 +137,8 @@
     "add": "添加",
     "text": "到您網站的首頁，然後您可以免費提交您的網站！",
     "networkError": "網絡錯誤",
-    "success": "成功"
+    "success": "成功",
+    "loginRequired": "需要登錄"
   },
   "Startup": {
     "title": "啟動您的初創公司",

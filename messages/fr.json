@@ -137,7 +137,8 @@
     "add": "Ajouter",
     "text": "à la page d'accueil de votre site Web, puis vous pourrez soumettre votre site Web gratuitement !",
     "networkError": "Erreur Réseau",
-    "success": "succès"
+    "success": "succès",
+    "loginRequired": "Requiert Connexion"
   },
   "Startup": {
     "title": "Lancez votre Startup",

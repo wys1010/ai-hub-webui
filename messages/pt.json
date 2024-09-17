@@ -137,7 +137,8 @@
     "add": "Adicionar",
     "text": "à página inicial do seu site, então você pode enviar seu site gratuitamente!",
     "networkError": "Erro de Rede",
-    "success": "sucesso"
+    "success": "sucesso",
+    "loginRequired": "Requer Login"
   },
   "Startup": {
     "title": "Lance sua Startup",

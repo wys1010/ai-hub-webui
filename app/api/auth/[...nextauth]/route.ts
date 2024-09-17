@@ -5,7 +5,7 @@ import GoogleProvider from 'next-auth/providers/google';
 // dns.setDefaultResultOrder('ipv4first');
 
 if (!process.env.GOOGLE_CLIENT_ID || !process.env.GOOGLE_CLIENT_SECRET) {
-  throw new Error('缺少 Google OAuth 凭据');
+  throw new Error('Missing Google OAuth credentials');
 }
 
 console.log('GOOGLE_CLIENT_ID:', process.env.GOOGLE_CLIENT_ID);
@@ -42,6 +42,15 @@ export const authOptions: NextAuthOptions = {
       }
     },
     async redirect({ url, baseUrl }) {
+      // 如果url是相对路径，则将其与baseUrl组合
+      if (url.startsWith('/')) {
+        return `${baseUrl}${url}`;
+      }
+      // 如果url已经是完整的URL并且属于同一域名，则直接返回
+      else if (new URL(url).origin === baseUrl) {
+        return url;
+      }
+      // 否则返回baseUrl
       return baseUrl;
     },
     async session({ session, user, token }) {

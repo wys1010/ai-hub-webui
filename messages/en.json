@@ -137,7 +137,8 @@
     "add": "Add",
     "text": "to your website homepage, And then you can submit your website successfully for free！",
     "networkError": "Network Error",
-    "success": "success"
+    "success": "success",
+    "loginRequired": "Login Required"
   },
   "Startup": {
     "title": "Kickstart Your Startup Launch",

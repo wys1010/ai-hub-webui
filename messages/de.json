@@ -137,7 +137,8 @@
     "add": "Hinzufügen",
     "text": "zu Ihrer Website-Startseite hinzu, und dann können Sie Ihre Website erfolgreich kostenlos einreichen!",
     "networkError": "Netzwerkfehler",
-    "success": "Erfolg"
+    "success": "Erfolg",
+    "loginRequired": "Anmeldung erforderlich"
   },
   "Startup": {
     "title": "Starten Sie Ihren Start-Up-Launch",
